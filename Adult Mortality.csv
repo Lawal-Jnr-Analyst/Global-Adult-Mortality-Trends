@@ -1,0 +1,2961 @@
+Region,Country,Year,Adult Mortality Rate
+Americas,Barbados,2021,102.1
+Europe,Bosnia and Herzegovina,2021,105
+Europe,Türkiye,2021,104.5
+Western Pacific,Brunei Darussalam,2021,106.1
+Americas,Puerto Rico,2021,107.3
+South-East Asia,Sri Lanka,2021,107
+Americas,Costa Rica,2021,108.9
+Americas,Panama,2021,109.3
+South-East Asia,Bhutan,2021,110.2
+Europe,Estonia,2021,113.3
+Eastern Mediterranean,Lebanon,2021,113.6
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2021,114.4
+Eastern Mediterranean,Tunisia,2021,115
+Europe,Montenegro,2021,117.1
+Eastern Mediterranean,Iran (Islamic Republic of),2021,120.6
+Europe,Poland,2021,128
+Europe,Slovakia,2021,127.6
+Americas,Colombia,2021,129.1
+Americas,Argentina,2021,130.4
+South-East Asia,Bangladesh,2021,130
+Americas,Cuba,2021,129.9
+Eastern Mediterranean,Syrian Arab Republic,2021,130.6
+Western Pacific,Viet Nam,2021,131.2
+Europe,Azerbaijan,2021,132.2
+Africa,Seychelles,2021,132.5
+Americas,Uruguay,2021,134.6
+Eastern Mediterranean,Morocco,2021,136
+Eastern Mediterranean,Oman,2021,136.1
+Europe,Armenia,2021,136.8
+Europe,Tajikistan,2021,136.6
+Europe,Hungary,2021,139.5
+Europe,North Macedonia,2021,140.2
+Americas,Nicaragua,2021,141.3
+Americas,United States of America,2021,141.8
+Europe,Uzbekistan,2021,141.6
+Europe,Serbia,2021,142.6
+Americas,Ecuador,2021,144.9
+Americas,Grenada,2021,147
+Eastern Mediterranean,Iraq,2021,148.4
+Americas,Dominican Republic,2021,149.2
+Europe,Kyrgyzstan,2021,154.8
+Africa,Cabo Verde,2021,156.1
+Africa,Mauritius,2021,160.1
+Europe,Romania,2021,159.5
+Europe,Lithuania,2021,160.7
+South-East Asia,Democratic People's Republic of Korea,2021,163.7
+Western Pacific,Malaysia,2021,164.3
+Europe,Belarus,2021,165.4
+Eastern Mediterranean,Libya,2021,166.4
+Americas,Jamaica,2021,169.5
+Europe,Georgia,2021,170.1
+South-East Asia,Thailand,2021,170.4
+Eastern Mediterranean,Egypt,2021,171.2
+Americas,Saint Lucia,2021,171.5
+Western Pacific,Tonga,2021,170.6
+Americas,Venezuela (Bolivarian Republic of),2021,171
+South-East Asia,Nepal,2021,172.3
+Africa,Mauritania,2021,173.3
+Africa,Sao Tome and Principe,2021,172.8
+Americas,Belize,2021,174.8
+Americas,Brazil,2021,175.6
+Europe,Latvia,2021,175.6
+South-East Asia,Timor-Leste,2021,177.2
+Europe,Bulgaria,2021,178.4
+Eastern Mediterranean,Sudan,2021,185.2
+Europe,Kazakhstan,2021,187
+Americas,Peru,2021,186.6
+Western Pacific,Lao People's Democratic Republic,2021,188.3
+Americas,Saint Vincent and the Grenadines,2021,188
+Europe,Turkmenistan,2021,189.8
+Americas,Paraguay,2021,191.7
+Europe,Republic of Moldova,2021,191.9
+Americas,Trinidad and Tobago,2021,192.4
+Africa,Nigeria,2021,194.1
+Africa,Comoros,2021,195
+Africa,Ethiopia,2021,195.8
+Western Pacific,Cambodia,2021,197.1
+Western Pacific,Indonesia,2021,198.6
+Europe,Ukraine,2021,199.9
+South-East Asia,Myanmar,2021,200.8
+Western Pacific,Samoa,2021,202
+Africa,Senegal,2021,203
+Eastern Mediterranean,Pakistan,2021,203.7
+Americas,Honduras,2021,205.2
+Africa,Rwanda,2021,205.5
+Americas,Mexico,2021,205.6
+Americas,El Salvador,2021,207.9
+Africa,Kenya,2021,209.9
+Americas,Suriname,2021,210.8
+Africa,Benin,2021,212.3
+Western Pacific,Mongolia,2021,215.4
+Americas,Bahamas,2021,218.2
+South-East Asia,India,2021,219
+Europe,Russian Federation,2021,221.2
+Americas,Guatemala,2021,223.5
+Africa,United Republic of Tanzania,2021,225.5
+Eastern Mediterranean,Yemen,2021,225.6
+Africa,Niger,2021,229.3
+Western Pacific,Philippines,2021,232.5
+Africa,Ghana,2021,235.1
+Africa,Liberia,2021,236.3
+Africa,Sierra Leone,2021,237
+Africa,Mali,2021,238.1
+Western Pacific,Papua New Guinea,2021,239.2
+Eastern Mediterranean,Djibouti,2021,246.2
+Africa,Burkina Faso,2021,247.4
+Africa,Cote d'Ivoire,2021,248.1
+Africa,Guinea,2021,247.9
+Africa,Uganda,2021,247.6
+Africa,Burundi,2021,249
+Africa,Madagascar,2021,250.8
+Africa,Togo,2021,250.7
+Africa,Gabon,2021,260.2
+Africa,Democratic Republic of the Congo,2021,262.7
+Western Pacific,Fiji,2021,264.4
+Africa,Gambia,2021,266.8
+Americas,Guyana,2021,271.6
+Americas,Bolivia (Plurinational State of),2021,272.5
+Western Pacific,Vanuatu,2021,275
+Africa,Angola,2021,276.7
+Africa,Chad,2021,279.2
+Western Pacific,Micronesia (Federated States of),2021,278.9
+Africa,Cameroon,2021,280
+Americas,Haiti,2021,282.4
+Africa,Equatorial Guinea,2021,288.5
+Africa,Eritrea,2021,295.2
+Africa,Congo,2021,304.9
+Africa,South Sudan,2021,306.4
+Western Pacific,Solomon Islands,2021,306.5
+Africa,Malawi,2021,323.4
+Western Pacific,Kiribati,2021,327.1
+Africa,Zambia,2021,334.9
+Eastern Mediterranean,Afghanistan,2021,344.2
+Africa,Guinea-Bissau,2021,355.5
+Africa,Botswana,2021,365.7
+Africa,South Africa,2021,371.4
+Africa,Namibia,2021,378.1
+Africa,Mozambique,2021,386.3
+Eastern Mediterranean,Somalia,2021,404.5
+Africa,Zimbabwe,2021,412.4
+Europe,Switzerland,2021,44.98
+Europe,Norway,2021,46.52
+Africa,Central African Republic,2021,470.9
+Europe,Luxembourg,2021,48.16
+Europe,Sweden,2021,48.36
+Western Pacific,Japan,2021,50.01
+Africa,Eswatini,2021,508.9
+Eastern Mediterranean,United Arab Emirates,2021,51.58
+Western Pacific,Singapore,2021,53.37
+Europe,Cyprus,2021,53.53
+Europe,Israel,2021,54.17
+Europe,Italy,2021,53.73
+Western Pacific,Republic of Korea,2021,53.54
+Europe,Iceland,2021,55.18
+Europe,Spain,2021,55.34
+Europe,Malta,2021,55.54
+Europe,Denmark,2021,56.75
+Europe,Ireland,2021,56.96
+Africa,Lesotho,2021,573.7
+Western Pacific,Australia,2021,57.58
+Europe,Netherlands (Kingdom of the),2021,57.52
+Europe,Belgium,2021,60.08
+Europe,Austria,2021,61.36
+South-East Asia,Maldives,2021,62.89
+Europe,Finland,2021,65.49
+Western Pacific,New Zealand,2021,64.85
+Europe,Slovenia,2021,68.44
+Europe,Germany,2021,68.89
+Europe,France,2021,70.14
+Eastern Mediterranean,Qatar,2021,70.94
+Americas,Canada,2021,72.3
+Europe,Portugal,2021,71.64
+Eastern Mediterranean,Kuwait,2021,75.3
+Europe,United Kingdom of Great Britain and Northern Ireland,2021,78.09
+Europe,Greece,2021,78.5
+Europe,Albania,2021,85.58
+Western Pacific,China,2021,88.35
+Eastern Mediterranean,Saudi Arabia,2021,88.24
+Africa,Algeria,2021,90.91
+Americas,Chile,2021,93.32
+Americas,Antigua and Barbuda,2021,94.93
+Eastern Mediterranean,Bahrain,2021,94.55
+Europe,Czechia,2021,95.14
+Europe,Croatia,2021,97.64
+Eastern Mediterranean,Jordan,2021,97.82
+South-East Asia,Bangladesh,2020,100.1
+Americas,Panama,2020,101.4
+Europe,Ukraine,2020,100.8
+Eastern Mediterranean,Kuwait,2020,101.8
+Eastern Mediterranean,Iran (Islamic Republic of),2020,103.4
+Eastern Mediterranean,Oman,2020,103
+Europe,Portugal,2020,102.7
+Western Pacific,Brunei Darussalam,2020,103.5
+Europe,Kyrgyzstan,2020,103.9
+Europe,Slovakia,2020,103.7
+Africa,Algeria,2020,105
+Eastern Mediterranean,Bahrain,2020,104.7
+Americas,Colombia,2020,105.1
+Eastern Mediterranean,Tunisia,2020,104.7
+Americas,Ecuador,2020,105.9
+Europe,Estonia,2020,106.4
+Africa,Mauritius,2020,105.6
+Americas,Peru,2020,106
+Americas,Barbados,2020,106.6
+Eastern Mediterranean,Iraq,2020,106.8
+Americas,Uruguay,2020,107.9
+Americas,Puerto Rico,2020,109.1
+Europe,Czechia,2020,109.9
+Europe,North Macedonia,2020,110
+South-East Asia,Bhutan,2020,111.1
+Americas,Chile,2020,111.1
+Europe,Montenegro,2020,111.2
+Americas,Grenada,2020,111.9
+Americas,Jamaica,2020,111.7
+Europe,Kazakhstan,2020,111.7
+Europe,Albania,2020,112.5
+Western Pacific,Mongolia,2020,112.5
+Eastern Mediterranean,Saudi Arabia,2020,112.8
+Americas,El Salvador,2020,113.6
+Europe,Uzbekistan,2020,114.3
+Americas,Argentina,2020,115.2
+Americas,Costa Rica,2020,114.7
+South-East Asia,Democratic People's Republic of Korea,2020,114.6
+Europe,Hungary,2020,115.9
+Eastern Mediterranean,Lebanon,2020,115.5
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2020,116.1
+Europe,Tajikistan,2020,115.8
+South-East Asia,Sri Lanka,2020,117.4
+Europe,Türkiye,2020,117.4
+Africa,Algeria,2020,117.9
+Americas,Trinidad and Tobago,2020,117.6
+Western Pacific,Viet Nam,2020,118.5
+Eastern Mediterranean,Egypt,2020,119.1
+Americas,Antigua and Barbuda,2020,119.5
+Western Pacific,Brunei Darussalam,2020,120.4
+Western Pacific,China,2020,119.6
+Europe,Croatia,2020,120.1
+Europe,Poland,2020,119.9
+South-East Asia,Bangladesh,2020,120.8
+Eastern Mediterranean,Morocco,2020,121.4
+Americas,Nicaragua,2020,121.1
+Europe,Russian Federation,2020,121.4
+Americas,Belize,2020,121.6
+Eastern Mediterranean,Libya,2020,122.3
+Eastern Mediterranean,Oman,2020,122.1
+Americas,Paraguay,2020,121.7
+Western Pacific,Malaysia,2020,122.9
+Western Pacific,Tonga,2020,122.6
+Africa,Seychelles,2020,124.9
+Americas,Cuba,2020,126.4
+South-East Asia,Nepal,2020,126
+Europe,Serbia,2020,126.5
+South-East Asia,Bhutan,2020,126.7
+Western Pacific,Philippines,2020,126.8
+Americas,United States of America,2020,126.9
+South-East Asia,Myanmar,2020,127.8
+Americas,Barbados,2020,129.4
+Americas,Panama,2020,129.2
+Eastern Mediterranean,Morocco,2020,129.6
+Americas,Saint Lucia,2020,129.9
+Americas,Suriname,2020,131.8
+Europe,Bosnia and Herzegovina,2020,133.3
+Americas,Grenada,2020,133.4
+Eastern Mediterranean,Iran (Islamic Republic of),2020,133
+Western Pacific,Lao People's Democratic Republic,2020,133.5
+Americas,Bahamas,2020,134.5
+Americas,Mexico,2020,134.8
+Eastern Mediterranean,Syrian Arab Republic,2020,134.9
+South-East Asia,Timor-Leste,2020,134.6
+Europe,Turkmenistan,2020,135.2
+Western Pacific,Cambodia,2020,137.1
+Americas,Colombia,2020,136.8
+Americas,Uruguay,2020,137.5
+South-East Asia,India,2020,137.9
+Americas,Jamaica,2020,138.1
+Eastern Mediterranean,Morocco,2020,137.6
+Americas,Guatemala,2020,138.9
+Europe,North Macedonia,2020,139.4
+Americas,Saint Vincent and the Grenadines,2020,140.4
+South-East Asia,Bangladesh,2020,141.3
+Africa,Cabo Verde,2020,140.5
+Africa,Sao Tome and Principe,2020,141.1
+Americas,Brazil,2020,142.4
+Europe,Latvia,2020,142.1
+Europe,Slovakia,2020,142.4
+Americas,Argentina,2020,143.6
+Americas,Dominican Republic,2020,143.9
+Europe,Tajikistan,2020,144.4
+Western Pacific,Indonesia,2020,145.3
+Europe,Romania,2020,145.3
+Europe,Uzbekistan,2020,146.3
+Europe,Georgia,2020,146.8
+Eastern Mediterranean,Sudan,2020,148.5
+Americas,Belize,2020,150.3
+Europe,Montenegro,2020,149.9
+Americas,Venezuela (Bolivarian Republic of),2020,149.7
+Europe,Estonia,2020,150.6
+Africa,Ethiopia,2020,150.7
+Europe,Bulgaria,2020,152.5
+Americas,Ecuador,2020,151.7
+South-East Asia,Nepal,2020,151.7
+Europe,Republic of Moldova,2020,152.2
+Eastern Mediterranean,Iraq,2020,152.6
+Africa,Benin,2020,153.7
+Europe,Lithuania,2020,154.2
+Americas,Paraguay,2020,153.6
+South-East Asia,Thailand,2020,154.4
+Africa,Comoros,2020,154.6
+Eastern Mediterranean,Egypt,2020,156
+Americas,Honduras,2020,156.2
+Eastern Mediterranean,Libya,2020,155.5
+Western Pacific,Malaysia,2020,155.6
+Americas,Peru,2020,155.9
+South-East Asia,Timor-Leste,2020,156
+Europe,Hungary,2020,157.2
+Europe,Azerbaijan,2020,158.1
+Africa,Mauritius,2020,157.9
+Americas,Nicaragua,2020,158.8
+Americas,Puerto Rico,2020,158.5
+Africa,Senegal,2020,159.4
+Africa,Seychelles,2020,159.1
+South-East Asia,Democratic People's Republic of Korea,2020,159.9
+Africa,Mauritania,2020,160
+Africa,Rwanda,2020,160.4
+Americas,United States of America,2020,160.4
+Africa,Sao Tome and Principe,2020,161.4
+Europe,Kyrgyzstan,2020,161.7
+Western Pacific,Tonga,2020,161.7
+Eastern Mediterranean,Yemen,2020,162
+Africa,Mauritania,2020,163
+Eastern Mediterranean,Sudan,2020,162.8
+Americas,Jamaica,2020,165.1
+Africa,Mauritania,2020,166.4
+Europe,Belarus,2020,166.7
+Western Pacific,Lao People's Democratic Republic,2020,168.5
+Americas,Trinidad and Tobago,2020,167.7
+Americas,Saint Lucia,2020,168.7
+South-East Asia,India,2020,169.7
+Europe,Poland,2020,171.4
+Europe,Serbia,2020,170.6
+Africa,Ethiopia,2020,171.6
+Africa,Nigeria,2020,171.7
+Western Pacific,Samoa,2020,171.6
+Western Pacific,Viet Nam,2020,172.9
+Africa,Comoros,2020,173.6
+Western Pacific,Indonesia,2020,174.3
+Europe,Tajikistan,2020,174.1
+Americas,Honduras,2020,175.2
+Americas,Bolivia (Plurinational State of),2020,175.8
+South-East Asia,Timor-Leste,2020,175.7
+Western Pacific,Cambodia,2020,176.9
+South-East Asia,Myanmar,2020,177.1
+Eastern Mediterranean,Syrian Arab Republic,2020,177.2
+Western Pacific,Vanuatu,2020,176.9
+Americas,Belize,2020,178.3
+Eastern Mediterranean,Pakistan,2020,178.4
+Eastern Mediterranean,Sudan,2020,178.5
+Europe,Uzbekistan,2020,177.8
+Western Pacific,Fiji,2020,178.8
+Europe,Kazakhstan,2020,179.6
+South-East Asia,Nepal,2020,179.7
+Americas,Suriname,2020,180.3
+Africa,Sao Tome and Principe,2020,181.1
+Africa,Uganda,2020,180.7
+Africa,Kenya,2020,183.4
+Europe,Ukraine,2020,183
+Americas,Bahamas,2020,183.8
+Africa,Burkina Faso,2020,183.9
+Africa,Senegal,2020,183.8
+Americas,Saint Vincent and the Grenadines,2020,184.7
+Africa,United Republic of Tanzania,2020,184.5
+Africa,Ghana,2020,186.1
+Africa,Rwanda,2020,186.2
+Eastern Mediterranean,Libya,2020,186.6
+Americas,Guatemala,2020,188.5
+Western Pacific,Philippines,2020,188.1
+Americas,Brazil,2020,189.2
+Americas,Dominican Republic,2020,191.4
+Eastern Mediterranean,Egypt,2020,191
+Europe,Turkmenistan,2020,190.7
+Africa,Comoros,2020,191.7
+Africa,Niger,2020,191.8
+Africa,Nigeria,2020,192.2
+Western Pacific,Papua New Guinea,2020,192.2
+Africa,Ethiopia,2020,193.4
+Africa,Benin,2020,194.4
+Americas,El Salvador,2020,194.4
+Africa,Burundi,2020,195.2
+Africa,Cabo Verde,2020,195.5
+Americas,Honduras,2020,194.6
+Eastern Mediterranean,Pakistan,2020,195.2
+Africa,Togo,2020,195.3
+Americas,Ecuador,2020,196.1
+Americas,Guyana,2020,196.1
+Western Pacific,Samoa,2020,195.7
+Western Pacific,Mongolia,2020,198.2
+South-East Asia,India,2020,198.9
+Eastern Mediterranean,Iraq,2020,199.8
+Europe,Armenia,2020,201.5
+Africa,Cote d'Ivoire,2020,201
+Europe,Romania,2020,201.4
+Africa,Democratic Republic of the Congo,2020,202.4
+Western Pacific,Indonesia,2020,202.5
+Western Pacific,Tonga,2020,202
+South-East Asia,Democratic People's Republic of Korea,2020,203.2
+Western Pacific,Lao People's Democratic Republic,2020,203
+Americas,Mexico,2020,203.3
+Americas,Peru,2020,203
+Europe,Russian Federation,2020,204.1
+Europe,Bulgaria,2020,205.7
+Europe,Latvia,2020,205.8
+Africa,Mauritius,2020,205.8
+Americas,Venezuela (Bolivarian Republic of),2020,205.9
+Eastern Mediterranean,Djibouti,2020,206.5
+Africa,Gabon,2020,206.8
+Africa,Senegal,2020,207.6
+Africa,United Republic of Tanzania,2020,208.1
+Eastern Mediterranean,Yemen,2020,208.1
+Western Pacific,Micronesia (Federated States of),2020,210.5
+Eastern Mediterranean,Pakistan,2020,211.5
+Africa,Gambia,2020,211.6
+Africa,Nigeria,2020,212.4
+Africa,Niger,2020,212.8
+Africa,Liberia,2020,213.6
+Western Pacific,Papua New Guinea,2020,214.7
+Americas,Trinidad and Tobago,2020,215.1
+Europe,Republic of Moldova,2020,216.3
+Africa,Rwanda,2020,215.9
+South-East Asia,Thailand,2020,215.6
+Western Pacific,Cambodia,2020,218.8
+Europe,Kyrgyzstan,2020,219.1
+Western Pacific,Samoa,2020,218.6
+Africa,Sierra Leone,2020,219.3
+Africa,Guinea,2020,220
+Americas,Bolivia (Plurinational State of),2020,221
+Western Pacific,Fiji,2020,221
+Africa,Mali,2020,221.4
+Africa,Angola,2020,222.5
+Europe,Azerbaijan,2020,221.7
+Africa,Kenya,2020,222.1
+Americas,Saint Vincent and the Grenadines,2020,223.5
+Europe,Lithuania,2020,223.9
+Africa,Madagascar,2020,224.4
+Western Pacific,Kiribati,2020,225
+Africa,Liberia,2020,225.2
+South-East Asia,Myanmar,2020,225.4
+Americas,Suriname,2020,224.8
+Europe,Georgia,2020,226.5
+Africa,Ghana,2020,226.7
+Africa,Burkina Faso,2020,227.6
+Africa,Cameroon,2020,228.5
+Western Pacific,Solomon Islands,2020,227.8
+Africa,Burundi,2020,229.5
+Africa,Eritrea,2020,228.9
+Africa,Mali,2020,231.1
+Eastern Mediterranean,Djibouti,2020,231.7
+Africa,Niger,2020,232.8
+Africa,Uganda,2020,232.8
+Africa,United Republic of Tanzania,2020,233.2
+Africa,Namibia,2020,233.5
+Americas,Bahamas,2020,234.8
+Africa,Benin,2020,235.1
+Africa,Chad,2020,235.4
+Western Pacific,Papua New Guinea,2020,235.2
+Africa,Sierra Leone,2020,235.1
+Africa,Liberia,2020,237.7
+Americas,Guatemala,2020,240.3
+Africa,Guinea,2020,239.8
+Africa,Cote d'Ivoire,2020,240.7
+Africa,Mali,2020,240.7
+Africa,Madagascar,2020,241.7
+Africa,Democratic Republic of the Congo,2020,244
+Africa,Malawi,2020,244.2
+Africa,Togo,2020,243.9
+Western Pacific,Philippines,2020,246
+Africa,South Sudan,2020,246.8
+Africa,Gambia,2020,247.7
+Europe,Kazakhstan,2020,248.3
+Americas,Haiti,2020,248.7
+Europe,Belarus,2020,249.7
+Europe,Turkmenistan,2020,250
+Africa,Sierra Leone,2020,251.4
+Africa,Gabon,2020,251.6
+Western Pacific,Vanuatu,2020,251.8
+Eastern Mediterranean,Yemen,2020,251.6
+Africa,Botswana,2020,253
+Africa,Angola,2020,255.4
+Americas,Guyana,2020,255.1
+Americas,Haiti,2020,257.2
+Eastern Mediterranean,Djibouti,2020,257.9
+Africa,Madagascar,2020,259
+Eastern Mediterranean,United Arab Emirates,2020,26.47
+Africa,Kenya,2020,259.7
+Africa,South Africa,2020,259.9
+Western Pacific,Fiji,2020,261.2
+Africa,Cameroon,2020,261.7
+Africa,Guinea,2020,263
+Europe,Ukraine,2020,263.4
+Americas,Bolivia (Plurinational State of),2020,263.9
+Africa,Burundi,2020,264.3
+Africa,Chad,2020,263.9
+Africa,Equatorial Guinea,2020,265.4
+Americas,Haiti,2020,266.2
+Africa,Ghana,2020,266.9
+Africa,Zambia,2020,268.1
+Western Pacific,Micronesia (Federated States of),2020,270.2
+Africa,Burkina Faso,2020,273.8
+Americas,Mexico,2020,274
+Africa,Cote d'Ivoire,2020,274.6
+Western Pacific,Mongolia,2020,279.7
+Africa,Eritrea,2020,282.4
+Africa,Gambia,2020,285.3
+Africa,Democratic Republic of the Congo,2020,285.5
+Western Pacific,Solomon Islands,2020,286
+Africa,Uganda,2020,286.4
+Europe,Russian Federation,2020,287.5
+Americas,El Salvador,2020,287.8
+Africa,Equatorial Guinea,2020,288.1
+Africa,Botswana,2020,288.7
+Africa,Angola,2020,290.2
+Africa,Congo,2020,289.9
+Africa,Mozambique,2020,290
+Africa,Togo,2020,290.3
+Africa,Gabon,2020,291.4
+Eastern Mediterranean,Afghanistan,2020,292.3
+Africa,Congo,2020,292.2
+Africa,Guinea-Bissau,2020,292.4
+Africa,South Sudan,2020,291.7
+Africa,Chad,2020,293.1
+Africa,Malawi,2020,293.1
+Africa,Cameroon,2020,294.7
+Africa,Congo,2020,294.7
+Western Pacific,Kiribati,2020,297.4
+Africa,Namibia,2020,298.4
+Europe,Armenia,2020,304.3
+Eastern Mediterranean,Somalia,2020,303.9
+Africa,Equatorial Guinea,2020,306.1
+Eastern Mediterranean,Afghanistan,2020,308.2
+Africa,Zambia,2020,309
+Africa,South Africa,2020,311.4
+Americas,Guyana,2020,314.7
+Western Pacific,Vanuatu,2020,317.2
+Europe,Switzerland,2020,32.45
+Eastern Mediterranean,Afghanistan,2020,323.7
+Africa,Botswana,2020,324.5
+Western Pacific,Micronesia (Federated States of),2020,329.4
+Western Pacific,Solomon Islands,2020,337
+Africa,Zimbabwe,2020,337.5
+Africa,Eritrea,2020,338.8
+Africa,South Sudan,2020,339.6
+Africa,Malawi,2020,347.2
+Western Pacific,Japan,2020,35.32
+Europe,Luxembourg,2020,34.92
+Western Pacific,Republic of Korea,2020,34.82
+Western Pacific,Singapore,2020,34.54
+Africa,Guinea-Bissau,2020,350.2
+Africa,Zambia,2020,351.4
+Africa,Mozambique,2020,356.1
+Europe,Albania,2020,36.34
+Europe,Cyprus,2020,36.38
+Europe,Israel,2020,36.41
+Eastern Mediterranean,Somalia,2020,362.7
+Africa,South Africa,2020,365.1
+Africa,Namibia,2020,366.1
+Europe,Italy,2020,37.09
+Eastern Mediterranean,Kuwait,2020,37.39
+Europe,Norway,2020,36.97
+Europe,Sweden,2020,36.54
+Africa,Central African Republic,2020,372.8
+Western Pacific,Kiribati,2020,372.8
+Europe,Spain,2020,38.49
+Africa,Eswatini,2020,380.2
+Africa,Zimbabwe,2020,380.1
+Europe,Malta,2020,39.22
+Western Pacific,Australia,2020,41.19
+Europe,Austria,2020,40.6
+Europe,Iceland,2020,41.41
+Europe,Slovenia,2020,41.36
+Africa,Guinea-Bissau,2020,411.8
+Europe,Finland,2020,42.3
+Eastern Mediterranean,Somalia,2020,419.9
+Europe,Belgium,2020,42.96
+Europe,Denmark,2020,42.91
+South-East Asia,Maldives,2020,42.74
+Africa,Zimbabwe,2020,432.2
+Africa,Mozambique,2020,432.7
+Europe,Greece,2020,44.08
+Europe,Portugal,2020,44.26
+Africa,Central African Republic,2020,441.9
+Europe,Ireland,2020,44.86
+Europe,Netherlands (Kingdom of the),2020,44.63
+Europe,Switzerland,2020,44.7
+Europe,France,2020,46.48
+Europe,Germany,2020,46.29
+Eastern Mediterranean,Qatar,2020,45.79
+Africa,Eswatini,2020,463.2
+Western Pacific,Singapore,2020,46.86
+South-East Asia,Sri Lanka,2020,46.57
+Africa,Lesotho,2020,474.7
+Europe,Luxembourg,2020,47.98
+Europe,Norway,2020,48.47
+Europe,Sweden,2020,49.14
+Western Pacific,Japan,2020,49.96
+Western Pacific,New Zealand,2020,49.68
+Europe,Italy,2020,51.17
+Europe,Cyprus,2020,51.99
+Europe,Israel,2020,52.03
+Africa,Central African Republic,2020,522.2
+Western Pacific,China,2020,53.22
+Europe,Croatia,2020,52.9
+Europe,Czechia,2020,53.95
+Europe,Malta,2020,53.63
+Africa,Eswatini,2020,549.1
+Americas,Canada,2020,55.05
+Europe,Iceland,2020,54.94
+Europe,Netherlands (Kingdom of the),2020,54.75
+Western Pacific,Republic of Korea,2020,54.63
+Europe,Türkiye,2020,55.3
+Eastern Mediterranean,United Arab Emirates,2020,54.89
+Africa,Lesotho,2020,552.3
+Europe,Ireland,2020,56.46
+Western Pacific,Australia,2020,57.08
+Europe,Denmark,2020,56.75
+Europe,Spain,2020,56.93
+Europe,Switzerland,2020,56.55
+Europe,United Kingdom of Great Britain and Northern Ireland,2020,57.42
+Americas,Chile,2020,58.44
+Western Pacific,Singapore,2020,58.27
+Eastern Mediterranean,Tunisia,2020,57.67
+Europe,Austria,2020,58.89
+Europe,Belgium,2020,59.23
+Eastern Mediterranean,Jordan,2020,59.05
+Europe,Norway,2020,59.28
+Europe,Luxembourg,2020,60.09
+Europe,Estonia,2020,60.77
+Europe,Sweden,2020,61.08
+Eastern Mediterranean,Bahrain,2020,61.78
+Americas,Costa Rica,2020,62.31
+South-East Asia,Maldives,2020,61.73
+Americas,Puerto Rico,2020,62.06
+Africa,Lesotho,2020,628.3
+Europe,Bosnia and Herzegovina,2020,62.9
+Eastern Mediterranean,Lebanon,2020,62.66
+Western Pacific,New Zealand,2020,62.54
+Europe,Slovakia,2020,63.2
+Western Pacific,Japan,2020,63.96
+Western Pacific,Viet Nam,2020,63.88
+Europe,Italy,2020,65.26
+Europe,Netherlands (Kingdom of the),2020,64.74
+Europe,Germany,2020,66.09
+Europe,Malta,2020,66.46
+Eastern Mediterranean,Oman,2020,65.52
+Europe,Poland,2020,65.65
+Europe,Slovenia,2020,66.03
+Eastern Mediterranean,Saudi Arabia,2020,67.38
+Europe,Cyprus,2020,67.53
+Europe,Finland,2020,67.73
+Europe,Iceland,2020,67.51
+Europe,Ireland,2020,68.16
+Europe,Israel,2020,67.82
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2020,67.89
+Europe,France,2020,69.08
+Europe,Greece,2020,69
+Eastern Mediterranean,United Arab Emirates,2020,68.99
+Europe,Denmark,2020,70.24
+Americas,Cuba,2020,70.88
+Eastern Mediterranean,Qatar,2020,70.71
+Eastern Mediterranean,Iran (Islamic Republic of),2020,71.8
+Europe,Albania,2020,73.33
+Western Pacific,Australia,2020,73
+Americas,Colombia,2020,73.15
+Americas,Panama,2020,73.08
+Europe,Portugal,2020,72.6
+Europe,Georgia,2020,73.52
+Europe,Hungary,2020,74.08
+Europe,Montenegro,2020,73.76
+Western Pacific,Republic of Korea,2020,73.63
+Europe,Belgium,2020,74.99
+Americas,Canada,2020,74.99
+South-East Asia,Maldives,2020,74.84
+Europe,Spain,2020,75.07
+Europe,United Kingdom of Great Britain and Northern Ireland,2020,75.37
+Eastern Mediterranean,Jordan,2020,75.67
+Western Pacific,New Zealand,2020,75.57
+Europe,Austria,2020,76.72
+Americas,Uruguay,2020,77.8
+Eastern Mediterranean,Kuwait,2020,79.34
+Europe,Latvia,2020,78.86
+Eastern Mediterranean,Qatar,2020,78.66
+Americas,Antigua and Barbuda,2020,80.72
+Africa,Cabo Verde,2020,80.66
+Europe,North Macedonia,2020,80.84
+South-East Asia,Sri Lanka,2020,81.26
+Eastern Mediterranean,Tunisia,2020,81.05
+Europe,Czechia,2020,82.82
+Europe,Lithuania,2020,82.61
+Europe,Serbia,2020,83.24
+Western Pacific,Brunei Darussalam,2020,83.77
+Africa,Seychelles,2020,84.16
+Americas,Barbados,2020,85.31
+Europe,Belarus,2020,85.28
+Americas,Chile,2020,85.08
+Europe,Germany,2020,85.15
+Americas,Nicaragua,2020,85.41
+Americas,Argentina,2020,86.15
+Western Pacific,Malaysia,2020,86.19
+Europe,Romania,2020,85.94
+Europe,Croatia,2020,86.71
+Europe,Türkiye,2020,86.95
+Western Pacific,China,2020,87.52
+Americas,Costa Rica,2020,88.39
+Eastern Mediterranean,Lebanon,2020,88.02
+Eastern Mediterranean,Bahrain,2020,89.28
+Americas,Grenada,2020,88.74
+Americas,Paraguay,2020,88.94
+Europe,Slovenia,2020,88.68
+Eastern Mediterranean,Jordan,2020,90.21
+Americas,Saint Lucia,2020,89.81
+Americas,Venezuela (Bolivarian Republic of),2020,90.28
+Africa,Algeria,2020,91.15
+South-East Asia,Thailand,2020,91.08
+Americas,United States of America,2020,90.68
+South-East Asia,Bhutan,2020,92.25
+Europe,Finland,2020,91.83
+Europe,France,2020,91.97
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2020,91.68
+Eastern Mediterranean,Syrian Arab Republic,2020,92.42
+Europe,Azerbaijan,2020,93.81
+Americas,Canada,2020,94.43
+Europe,Republic of Moldova,2020,94.36
+Europe,United Kingdom of Great Britain and Northern Ireland,2020,93.7
+Americas,Brazil,2020,94.64
+Europe,Bulgaria,2020,95.08
+Europe,Greece,2020,94.7
+Americas,Dominican Republic,2020,95.72
+Eastern Mediterranean,Saudi Arabia,2020,96.98
+Europe,Bosnia and Herzegovina,2020,97.7
+Americas,Antigua and Barbuda,2020,99.08
+Europe,Armenia,2020,98.83
+Americas,Cuba,2020,98.62
+Americas,Cuba,2019,100.1
+Europe,Estonia,2019,99.77
+Europe,Montenegro,2019,100.4
+Africa,Seychelles,2019,99.92
+Europe,Azerbaijan,2019,100.8
+Western Pacific,Brunei Darussalam,2019,101.2
+Americas,Ecuador,2019,101.3
+Africa,Mauritius,2019,100.8
+Europe,Slovakia,2019,101.6
+South-East Asia,Sri Lanka,2019,101.9
+Eastern Mediterranean,Egypt,2019,103.1
+Eastern Mediterranean,Syrian Arab Republic,2019,104.2
+Eastern Mediterranean,Iraq,2019,104.9
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2019,104.9
+Americas,Puerto Rico,2019,104.8
+Europe,Russian Federation,2019,105
+Americas,Argentina,2019,106.1
+Europe,Czechia,2019,105.6
+Americas,Nicaragua,2019,106.6
+Europe,Türkiye,2019,107
+Americas,United States of America,2019,106.8
+Americas,Dominican Republic,2019,107.6
+Europe,Tajikistan,2019,109.5
+Eastern Mediterranean,Tunisia,2019,108.9
+Europe,Uzbekistan,2019,108.7
+Americas,Antigua and Barbuda,2019,109.8
+Europe,Serbia,2019,110
+Europe,Poland,2019,111
+Europe,Armenia,2019,111.8
+Americas,Costa Rica,2019,111.7
+Americas,Uruguay,2019,112.4
+Americas,Barbados,2019,112.9
+Eastern Mediterranean,Iran (Islamic Republic of),2019,113.4
+Americas,Jamaica,2019,113.2
+Europe,North Macedonia,2019,113
+South-East Asia,Bhutan,2019,114.1
+Americas,Grenada,2019,114.3
+Eastern Mediterranean,Morocco,2019,114.5
+Americas,Colombia,2019,115.9
+Eastern Mediterranean,Oman,2019,115.9
+Americas,Panama,2019,116.4
+Americas,Peru,2019,116.5
+Americas,Trinidad and Tobago,2019,116.5
+South-East Asia,Bangladesh,2019,116.6
+Western Pacific,Brunei Darussalam,2019,117
+South-East Asia,Democratic People's Republic of Korea,2019,116.7
+Europe,Hungary,2019,117
+Americas,Belize,2019,118.1
+Western Pacific,China,2019,117.8
+Eastern Mediterranean,Libya,2019,117.6
+Europe,Croatia,2019,119.4
+Western Pacific,Mongolia,2019,119.3
+Eastern Mediterranean,Morocco,2019,118.7
+Americas,Bolivia (Plurinational State of),2019,120.8
+Eastern Mediterranean,Morocco,2019,122.9
+Europe,Bosnia and Herzegovina,2019,123.7
+South-East Asia,Nepal,2019,124.5
+Americas,Paraguay,2019,125
+Americas,Brazil,2019,126
+Americas,Saint Lucia,2019,125.9
+South-East Asia,Bhutan,2019,126.9
+Americas,Cuba,2019,127.6
+Americas,Ecuador,2019,127.6
+Americas,Guatemala,2019,127.7
+Western Pacific,Indonesia,2019,128.1
+Americas,Suriname,2019,129
+Western Pacific,Tonga,2019,128.7
+Western Pacific,Viet Nam,2019,128.8
+Americas,Antigua and Barbuda,2019,129.6
+Americas,Argentina,2019,131.2
+Americas,Bolivia (Plurinational State of),2019,131
+South-East Asia,Myanmar,2019,131
+Europe,Tajikistan,2019,131.3
+Western Pacific,Philippines,2019,131.5
+Europe,Turkmenistan,2019,132.2
+Europe,Bulgaria,2019,133.4
+Americas,Barbados,2019,134.4
+South-East Asia,India,2019,133.5
+Europe,Montenegro,2019,133.5
+Europe,Romania,2019,134.1
+Americas,United States of America,2019,133.6
+South-East Asia,Bangladesh,2019,134.9
+Eastern Mediterranean,Iraq,2019,136.1
+Europe,Azerbaijan,2019,137.3
+Europe,Lithuania,2019,137.4
+Americas,Saint Vincent and the Grenadines,2019,137.1
+Africa,Cabo Verde,2019,138.2
+Eastern Mediterranean,Egypt,2019,138.4
+Africa,Sao Tome and Principe,2019,138.5
+Europe,Kyrgyzstan,2019,139.2
+Western Pacific,Malaysia,2019,139.4
+Americas,Mexico,2019,138.7
+Eastern Mediterranean,Sudan,2019,139.1
+Americas,Nicaragua,2019,139.7
+Europe,Slovakia,2019,140.1
+South-East Asia,Timor-Leste,2019,139.8
+Americas,Bolivia (Plurinational State of),2019,141
+Europe,Uzbekistan,2019,141.3
+Western Pacific,Cambodia,2019,142.1
+Europe,Estonia,2019,142
+Europe,Georgia,2019,142
+South-East Asia,Thailand,2019,141.6
+Americas,Grenada,2019,142.8
+Europe,Latvia,2019,143.5
+Americas,Jamaica,2019,143.9
+South-East Asia,Sri Lanka,2019,143.9
+Western Pacific,Lao People's Democratic Republic,2019,145.3
+Americas,Uruguay,2019,146
+Americas,Honduras,2019,147.1
+Europe,Republic of Moldova,2019,146.5
+Europe,Serbia,2019,147.1
+Europe,Belarus,2019,148.1
+South-East Asia,Nepal,2019,148.9
+Eastern Mediterranean,Libya,2019,149.8
+Africa,Mauritania,2019,150.2
+Africa,Mauritania,2019,149.5
+Africa,Mauritania,2019,150.9
+Eastern Mediterranean,Sudan,2019,150.7
+Americas,Venezuela (Bolivarian Republic of),2019,151.4
+Western Pacific,Indonesia,2019,152.5
+Africa,Mauritius,2019,152.3
+Americas,Puerto Rico,2019,151.7
+Americas,Dominican Republic,2019,153.4
+Africa,Ethiopia,2019,153.1
+Americas,Bahamas,2019,153.7
+Americas,Belize,2019,154.3
+Eastern Mediterranean,Yemen,2019,154.6
+Africa,Sao Tome and Principe,2019,156
+Africa,Seychelles,2019,157.2
+Africa,Comoros,2019,158.4
+Europe,Hungary,2019,158.7
+Europe,Kazakhstan,2019,158.9
+Europe,Poland,2019,158.7
+Americas,Paraguay,2019,159.5
+Americas,Saint Lucia,2019,159.8
+Africa,Senegal,2019,160
+South-East Asia,Timor-Leste,2019,160.6
+Africa,Benin,2019,161.5
+South-East Asia,Democratic People's Republic of Korea,2019,162
+Americas,Trinidad and Tobago,2019,161.9
+South-East Asia,India,2019,163
+Eastern Mediterranean,Sudan,2019,163.5
+Western Pacific,Tonga,2019,163.4
+Americas,Honduras,2019,165
+Americas,Brazil,2019,168.4
+Americas,Guatemala,2019,168
+Africa,Nigeria,2019,168.2
+Eastern Mediterranean,Pakistan,2019,167.5
+Americas,Grenada,2019,169.2
+Americas,Guyana,2019,168.7
+Eastern Mediterranean,Iraq,2019,168.5
+Africa,Rwanda,2019,169.9
+Eastern Mediterranean,Egypt,2019,172
+Americas,El Salvador,2019,173.2
+Africa,Ethiopia,2019,172.7
+Africa,Sao Tome and Principe,2019,172.9
+Europe,Uzbekistan,2019,173.3
+Americas,Jamaica,2019,175
+Western Pacific,Malaysia,2019,174.8
+Western Pacific,Samoa,2019,174.7
+Western Pacific,Indonesia,2019,176.2
+South-East Asia,Nepal,2019,175.9
+Americas,Suriname,2019,175.9
+Europe,Armenia,2019,178.4
+Americas,Saint Vincent and the Grenadines,2019,179.2
+Africa,Comoros,2019,179.8
+Western Pacific,Lao People's Democratic Republic,2019,179.6
+Eastern Mediterranean,Libya,2019,179.7
+South-East Asia,Myanmar,2019,180.2
+Eastern Mediterranean,Pakistan,2019,179.9
+South-East Asia,Timor-Leste,2019,179.7
+Europe,Ukraine,2019,179.7
+Eastern Mediterranean,Syrian Arab Republic,2019,180.8
+Western Pacific,Vanuatu,2019,180.8
+Europe,Bulgaria,2019,181.6
+Western Pacific,Fiji,2019,182.4
+Africa,Senegal,2019,182.4
+Western Pacific,Cambodia,2019,182.7
+Americas,Honduras,2019,183
+Europe,Turkmenistan,2019,184.7
+Africa,Uganda,2019,185.2
+Western Pacific,Viet Nam,2019,184.5
+Europe,Russian Federation,2019,186.1
+Africa,Burkina Faso,2019,188.4
+Africa,Nigeria,2019,188.1
+Europe,Romania,2019,188.4
+Americas,Belize,2019,189
+Americas,Mexico,2019,188.6
+South-East Asia,India,2019,190
+Western Pacific,Philippines,2019,190
+Western Pacific,Papua New Guinea,2019,191
+Africa,Ghana,2019,191.5
+Europe,Kyrgyzstan,2019,192.2
+Africa,Niger,2019,191.7
+Eastern Mediterranean,Pakistan,2019,191.8
+Americas,Bahamas,2019,193
+Africa,Ethiopia,2019,193.1
+Africa,Cabo Verde,2019,194.4
+Africa,Rwanda,2019,196.8
+Africa,United Republic of Tanzania,2019,197
+Americas,Dominican Republic,2019,197.8
+Western Pacific,Samoa,2019,198.2
+Africa,Cote d'Ivoire,2019,198.7
+South-East Asia,Thailand,2019,198.9
+Western Pacific,Tonga,2019,199.2
+Africa,Comoros,2019,200.1
+Africa,Mauritius,2019,199.6
+Africa,Benin,2019,201
+Africa,Burundi,2019,201.3
+Africa,Kenya,2019,200.8
+Europe,Lithuania,2019,201
+Africa,Togo,2019,202.1
+Europe,Latvia,2019,204.1
+Africa,Seychelles,2019,203.8
+Eastern Mediterranean,Yemen,2019,204.4
+South-East Asia,Democratic People's Republic of Korea,2019,205.2
+Africa,Senegal,2019,204.6
+Americas,Trinidad and Tobago,2019,204.9
+Eastern Mediterranean,Djibouti,2019,207.8
+Africa,Nigeria,2019,207.5
+Africa,Democratic Republic of the Congo,2019,209.2
+Americas,Venezuela (Bolivarian Republic of),2019,208.6
+Americas,Guatemala,2019,209.7
+Africa,Gambia,2019,211.4
+Western Pacific,Micronesia (Federated States of),2019,211.1
+Western Pacific,Mongolia,2019,210.6
+Africa,Niger,2019,211.4
+Western Pacific,Papua New Guinea,2019,210.9
+Africa,Gabon,2019,212.5
+Western Pacific,Lao People's Democratic Republic,2019,213.2
+Europe,Republic of Moldova,2019,216.1
+Americas,Saint Vincent and the Grenadines,2019,216.1
+Africa,Liberia,2019,217
+Western Pacific,Fiji,2019,218.4
+Africa,Madagascar,2019,217.6
+Africa,Mali,2019,217.7
+Americas,Suriname,2019,219.1
+Europe,Georgia,2019,219.6
+Western Pacific,Samoa,2019,220.4
+Africa,United Republic of Tanzania,2019,221.2
+Europe,Belarus,2019,222.4
+Africa,Sierra Leone,2019,221.9
+Africa,Guinea,2019,222.8
+Americas,Guyana,2019,223.8
+Western Pacific,Kiribati,2019,224.1
+Africa,Angola,2019,225
+Western Pacific,Cambodia,2019,225.4
+Africa,Mali,2019,225.3
+Europe,Kazakhstan,2019,226.1
+Africa,Liberia,2019,227.2
+South-East Asia,Myanmar,2019,228.2
+Africa,Rwanda,2019,227.7
+Western Pacific,Solomon Islands,2019,228
+Western Pacific,Papua New Guinea,2019,229
+Africa,Niger,2019,230.1
+Africa,Chad,2019,231.3
+Africa,Eritrea,2019,231.1
+Eastern Mediterranean,Djibouti,2019,232.2
+Africa,Burkina Faso,2019,233.1
+Africa,Ghana,2019,232.7
+Africa,Madagascar,2019,232.6
+Africa,Mali,2019,232.8
+Africa,South Africa,2019,232.6
+Americas,Bahamas,2019,234.2
+Africa,Burundi,2019,234.9
+Africa,Cameroon,2019,235.6
+Africa,Sierra Leone,2019,236.4
+Africa,Liberia,2019,238.1
+Africa,Cote d'Ivoire,2019,239
+Africa,Uganda,2019,238.7
+Africa,Benin,2019,240.5
+Africa,Kenya,2019,239.9
+Africa,Namibia,2019,239.5
+Africa,Guinea,2019,240.6
+Europe,Turkmenistan,2019,240.8
+Africa,Gambia,2019,246.2
+Western Pacific,Philippines,2019,245.6
+Africa,Malawi,2019,246.6
+Africa,United Republic of Tanzania,2019,246.9
+Africa,Madagascar,2019,247.6
+Africa,Democratic Republic of the Congo,2019,248.7
+Eastern Mediterranean,United Arab Emirates,2019,24.77
+Americas,Haiti,2019,249.6
+Africa,South Sudan,2019,250.4
+Africa,Togo,2019,250
+Africa,Sierra Leone,2019,251.4
+Eastern Mediterranean,Syrian Arab Republic,2019,251.1
+Eastern Mediterranean,Yemen,2019,250.7
+Western Pacific,Fiji,2019,252.9
+Western Pacific,Vanuatu,2019,254.3
+Americas,Haiti,2019,254.9
+Africa,Gabon,2019,256
+Eastern Mediterranean,Djibouti,2019,257.4
+Africa,Angola,2019,257.9
+Americas,El Salvador,2019,258.2
+Africa,Chad,2019,258.6
+Americas,Haiti,2019,260.3
+Africa,Guinea,2019,261.5
+Africa,Equatorial Guinea,2019,262.7
+Europe,Ukraine,2019,263.1
+Africa,Botswana,2019,265.6
+Africa,Cameroon,2019,267
+Western Pacific,Micronesia (Federated States of),2019,268.2
+Europe,Russian Federation,2019,268.1
+Africa,Burundi,2019,269
+Africa,Zambia,2019,270.5
+Africa,Cote d'Ivoire,2019,273.3
+Africa,Ghana,2019,273.3
+Eastern Mediterranean,Afghanistan,2019,274.8
+Africa,Kenya,2019,277.5
+Americas,Guyana,2019,278.9
+Eastern Mediterranean,Kuwait,2019,27.74
+Africa,Burkina Faso,2019,280.1
+Africa,Guinea-Bissau,2019,280.5
+Africa,Gambia,2019,282.6
+Africa,Equatorial Guinea,2019,284.7
+Africa,Eritrea,2019,284.7
+Western Pacific,Solomon Islands,2019,284.8
+Africa,Chad,2019,286.4
+Africa,Democratic Republic of the Congo,2019,288.3
+Africa,South Africa,2019,288.6
+Africa,Congo,2019,291.4
+Africa,Angola,2019,292.5
+Africa,Congo,2019,293
+Africa,South Sudan,2019,292.6
+Africa,Uganda,2019,293.5
+Eastern Mediterranean,Afghanistan,2019,293.8
+Western Pacific,Kiribati,2019,294.3
+Africa,Mozambique,2019,294.5
+Africa,Congo,2019,294.7
+Africa,Gabon,2019,294.7
+Eastern Mediterranean,Somalia,2019,295.9
+Africa,Togo,2019,295.7
+Africa,Malawi,2019,297.1
+Africa,Botswana,2019,297.6
+Africa,Cameroon,2019,298.3
+Western Pacific,Mongolia,2019,298.6
+Africa,Equatorial Guinea,2019,302.3
+Africa,Namibia,2019,306.8
+Eastern Mediterranean,Afghanistan,2019,311.7
+Africa,Zambia,2019,311.5
+Western Pacific,Vanuatu,2019,318.7
+Europe,Switzerland,2019,32.16
+Western Pacific,Micronesia (Federated States of),2019,324.8
+Africa,Botswana,2019,330
+Africa,Guinea-Bissau,2019,334.3
+Western Pacific,Solomon Islands,2019,334.7
+Africa,South Sudan,2019,337.6
+Western Pacific,Republic of Korea,2019,34.39
+Africa,Eritrea,2019,341.1
+Africa,Zimbabwe,2019,347.1
+Africa,South Africa,2019,348.4
+Europe,Albania,2019,34.5
+Europe,Cyprus,2019,35.42
+Western Pacific,Japan,2019,35.18
+Europe,Luxembourg,2019,35.34
+Western Pacific,Singapore,2019,34.79
+Africa,Malawi,2019,352.2
+Africa,Zambia,2019,354
+Eastern Mediterranean,Somalia,2019,355.6
+Europe,Italy,2019,36.3
+Europe,Spain,2019,36.22
+Africa,Mozambique,2019,360.5
+Western Pacific,Kiribati,2019,367.5
+Europe,Israel,2019,37
+Europe,Norway,2019,37.28
+Africa,Central African Republic,2019,370.8
+Africa,Namibia,2019,376.9
+Europe,Slovenia,2019,38.38
+Europe,Sweden,2019,37.77
+Africa,Eswatini,2019,381.6
+Africa,Zimbabwe,2019,388.7
+Africa,Guinea-Bissau,2019,392.4
+Europe,Austria,2019,40.93
+Europe,Iceland,2019,41.2
+South-East Asia,Maldives,2019,40.97
+Europe,Malta,2019,40.78
+Eastern Mediterranean,Somalia,2019,413.5
+Europe,Greece,2019,42.19
+Europe,Denmark,2019,43.06
+Europe,Finland,2019,43.15
+Europe,Switzerland,2019,43.44
+Eastern Mediterranean,United Arab Emirates,2019,42.76
+Africa,Mozambique,2019,438.3
+Africa,Zimbabwe,2019,439.3
+Western Pacific,Australia,2019,43.73
+Europe,Ireland,2019,43.68
+Europe,Portugal,2019,44.43
+Africa,Central African Republic,2019,439.7
+Europe,France,2019,45.12
+Europe,Netherlands (Kingdom of the),2019,44.99
+Eastern Mediterranean,Qatar,2019,45.46
+Western Pacific,Singapore,2019,46.34
+Africa,Eswatini,2019,467.7
+Europe,Belgium,2019,47.01
+Europe,Germany,2019,46.63
+Africa,Lesotho,2019,473
+Europe,Luxembourg,2019,48.07
+Europe,Sweden,2019,48.27
+Americas,Canada,2019,49.38
+Europe,Norway,2019,48.8
+Europe,Italy,2019,50.08
+Western Pacific,Japan,2019,49.8
+Eastern Mediterranean,Lebanon,2019,49.53
+Europe,Czechia,2019,51.27
+Eastern Mediterranean,Jordan,2019,50.5
+Western Pacific,New Zealand,2019,50.75
+Africa,Central African Republic,2019,517.9
+Europe,Croatia,2019,52.21
+Europe,Cyprus,2019,51.52
+Europe,Türkiye,2019,52.09
+Eastern Mediterranean,United Arab Emirates,2019,51.74
+Americas,Chile,2019,53.27
+Europe,Israel,2019,53.25
+Europe,Malta,2019,53.11
+Europe,United Kingdom of Great Britain and Northern Ireland,2019,53.36
+Europe,Netherlands (Kingdom of the),2019,53.69
+Europe,Spain,2019,53.77
+Europe,Switzerland,2019,54.37
+Western Pacific,China,2019,55.4
+Europe,Iceland,2019,55.28
+Eastern Mediterranean,Kuwait,2019,55.23
+Africa,Lesotho,2019,551.8
+Africa,Eswatini,2019,555.9
+Europe,Armenia,2019,56.07
+Europe,Ireland,2019,56.16
+Western Pacific,Republic of Korea,2019,55.69
+Europe,Denmark,2019,57.24
+Europe,Estonia,2019,57.24
+Western Pacific,Singapore,2019,57.01
+Europe,Austria,2019,58.29
+Americas,Costa Rica,2019,57.76
+Europe,Sweden,2019,58.24
+Eastern Mediterranean,Iran (Islamic Republic of),2019,58.83
+Eastern Mediterranean,Tunisia,2019,59.22
+Europe,Luxembourg,2019,59.89
+Europe,North Macedonia,2019,60.49
+Europe,Norway,2019,59.64
+Americas,Puerto Rico,2019,60.24
+Western Pacific,Australia,2019,60.92
+Europe,Poland,2019,60.98
+South-East Asia,Sri Lanka,2019,61.18
+Europe,Bosnia and Herzegovina,2019,61.57
+Americas,Colombia,2019,62.05
+South-East Asia,Maldives,2019,61.86
+Europe,Netherlands (Kingdom of the),2019,62.29
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2019,62.45
+Europe,Slovakia,2019,61.55
+Africa,Lesotho,2019,629.5
+Europe,Albania,2019,62.77
+Europe,Belgium,2019,62.59
+Europe,Italy,2019,63.82
+Western Pacific,Japan,2019,63.78
+Eastern Mediterranean,Jordan,2019,63.51
+Europe,Malta,2019,64.3
+Europe,Germany,2019,65.48
+Western Pacific,New Zealand,2019,64.91
+Eastern Mediterranean,Oman,2019,64.94
+Americas,Panama,2019,65.16
+Europe,Slovenia,2019,65.29
+Americas,Canada,2019,65.61
+Europe,Finland,2019,65.95
+Europe,France,2019,66.32
+Europe,Azerbaijan,2019,66.82
+Europe,Cyprus,2019,67.47
+Eastern Mediterranean,Qatar,2019,66.66
+Europe,Greece,2019,68.21
+Europe,Iceland,2019,68.24
+Eastern Mediterranean,Lebanon,2019,68.01
+Europe,Montenegro,2019,68.39
+Eastern Mediterranean,Bahrain,2019,68.93
+Europe,Ireland,2019,68.72
+Eastern Mediterranean,Saudi Arabia,2019,68.94
+Europe,United Kingdom of Great Britain and Northern Ireland,2019,68.75
+Europe,Georgia,2019,70.47
+Europe,Israel,2019,69.69
+Eastern Mediterranean,Kuwait,2019,69.71
+Europe,Portugal,2019,70.28
+Europe,Denmark,2019,71.04
+Europe,Spain,2019,71.09
+Africa,Algeria,2019,72.94
+Americas,Cuba,2019,72.8
+Western Pacific,Viet Nam,2019,73.28
+Americas,Ecuador,2019,74.46
+Europe,Lithuania,2019,73.53
+Eastern Mediterranean,Qatar,2019,73.53
+Europe,Serbia,2019,74.1
+Europe,Austria,2019,75.22
+Eastern Mediterranean,Bahrain,2019,75.47
+Europe,Hungary,2019,75.02
+Eastern Mediterranean,Jordan,2019,74.95
+Americas,Nicaragua,2019,75.09
+Europe,Belarus,2019,75.85
+Americas,Chile,2019,76.46
+South-East Asia,Maldives,2019,76.31
+Western Pacific,Republic of Korea,2019,76.13
+Africa,Cabo Verde,2019,76.73
+Europe,Romania,2019,77.28
+Western Pacific,Australia,2019,78.14
+Europe,Belgium,2019,77.7
+Americas,Peru,2019,78.37
+Americas,United States of America,2019,78.07
+Americas,Uruguay,2019,78.3
+Eastern Mediterranean,Bahrain,2019,78.9
+Europe,Czechia,2019,79.27
+Western Pacific,New Zealand,2019,79.19
+Americas,Argentina,2019,80.46
+Europe,Türkiye,2019,80
+Americas,Canada,2019,81.48
+Africa,Algeria,2019,81.58
+Europe,Bulgaria,2019,81.7
+Americas,Brazil,2019,82.77
+Western Pacific,Brunei Darussalam,2019,82.78
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2019,83.39
+Europe,Republic of Moldova,2019,83.05
+South-East Asia,Thailand,2019,82.74
+Europe,Germany,2019,83.65
+Europe,Latvia,2019,83.81
+Eastern Mediterranean,Tunisia,2019,84.01
+Europe,United Kingdom of Great Britain and Northern Ireland,2019,84.48
+Americas,Costa Rica,2019,84.69
+Europe,Croatia,2019,86.06
+Europe,Kyrgyzstan,2019,85.75
+Eastern Mediterranean,Saudi Arabia,2019,86.12
+Eastern Mediterranean,Iran (Islamic Republic of),2019,86.96
+Europe,North Macedonia,2019,86.65
+Western Pacific,China,2019,87.6
+Europe,Finland,2019,87.68
+Europe,France,2019,87.83
+Eastern Mediterranean,Lebanon,2019,87.88
+Americas,Colombia,2019,89.02
+Americas,Paraguay,2019,89.42
+Europe,Tajikistan,2019,88.63
+Africa,Algeria,2019,89.67
+Europe,Slovenia,2019,89.96
+Americas,Mexico,2019,91.16
+Americas,Panama,2019,91.08
+Americas,Saint Lucia,2019,90.95
+Americas,Venezuela (Bolivarian Republic of),2019,91.02
+Americas,Antigua and Barbuda,2019,91.93
+Europe,Bosnia and Herzegovina,2019,92.21
+Europe,Albania,2019,92.79
+Americas,Barbados,2019,92.64
+Europe,Kazakhstan,2019,93.55
+Europe,Ukraine,2019,94.15
+Europe,Greece,2019,95.11
+Eastern Mediterranean,Saudi Arabia,2019,95.83
+Americas,Peru,2019,97.57
+Europe,Portugal,2019,97.83
+South-East Asia,Bangladesh,2019,98.56
+South-East Asia,Bhutan,2019,98.62
+Americas,Chile,2019,99.18
+Americas,El Salvador,2019,99.4
+Western Pacific,Malaysia,2019,99.22
+Eastern Mediterranean,Oman,2019,99.32
+South-East Asia,Bhutan,2018,99.83
+Western Pacific,Brunei Darussalam,2018,99.55
+Americas,Chile,2018,99.62
+Europe,Azerbaijan,2018,101.4
+South-East Asia,Bangladesh,2018,100.6
+Africa,Seychelles,2018,100.7
+Africa,Mauritius,2018,101.8
+Eastern Mediterranean,Oman,2018,101.6
+Europe,Portugal,2018,102.5
+Americas,Puerto Rico,2018,101.5
+South-East Asia,Sri Lanka,2018,101.8
+Americas,Ecuador,2018,103.2
+Eastern Mediterranean,Egypt,2018,105.6
+Eastern Mediterranean,Iraq,2018,106.3
+Europe,Slovakia,2018,106.3
+Europe,Estonia,2018,107
+Americas,Jamaica,2018,106.9
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2018,107
+Europe,Russian Federation,2018,107.7
+Americas,United States of America,2018,107.6
+Americas,Argentina,2018,108.7
+Europe,Czechia,2018,109.4
+Americas,Peru,2018,109
+Europe,Serbia,2018,109.3
+Europe,Türkiye,2018,109.1
+Americas,Antigua and Barbuda,2018,110.3
+Americas,Dominican Republic,2018,110.6
+Eastern Mediterranean,Tunisia,2018,111.3
+Europe,Tajikistan,2018,112.5
+Europe,Armenia,2018,113
+Americas,Barbados,2018,113.2
+Americas,Costa Rica,2018,113.4
+Eastern Mediterranean,Iran (Islamic Republic of),2018,114.2
+Americas,Nicaragua,2018,113.8
+Americas,Uruguay,2018,114
+South-East Asia,Bhutan,2018,115.5
+Western Pacific,Brunei Darussalam,2018,114.7
+Americas,Grenada,2018,115
+Europe,Poland,2018,115.2
+Eastern Mediterranean,Morocco,2018,116
+Europe,North Macedonia,2018,116
+Americas,Trinidad and Tobago,2018,117.4
+Americas,Colombia,2018,118.2
+South-East Asia,Democratic People's Republic of Korea,2018,117.9
+Eastern Mediterranean,Libya,2018,118.2
+Eastern Mediterranean,Oman,2018,117.8
+Americas,Panama,2018,118.1
+Europe,Uzbekistan,2018,117.5
+South-East Asia,Bangladesh,2018,118.7
+Americas,Belize,2018,118.9
+Western Pacific,China,2018,119.5
+Eastern Mediterranean,Morocco,2018,120
+Eastern Mediterranean,Syrian Arab Republic,2018,120.6
+Europe,Bosnia and Herzegovina,2018,121.6
+Europe,Croatia,2018,122
+Europe,Hungary,2018,122.2
+Western Pacific,Mongolia,2018,121.7
+Americas,Bolivia (Plurinational State of),2018,122.5
+Americas,Paraguay,2018,122.8
+Eastern Mediterranean,Morocco,2018,123.9
+Americas,Cuba,2018,125
+South-East Asia,Nepal,2018,126.3
+Americas,Guatemala,2018,127.3
+Americas,Saint Lucia,2018,126.7
+South-East Asia,Bhutan,2018,128.4
+Americas,Bahamas,2018,129.4
+Americas,Brazil,2018,128.9
+Americas,Suriname,2018,128.7
+Western Pacific,Philippines,2018,129.9
+Western Pacific,Tonga,2018,129.7
+Western Pacific,Viet Nam,2018,130.2
+Americas,Antigua and Barbuda,2018,131.3
+Americas,Ecuador,2018,130.6
+Western Pacific,Indonesia,2018,130.9
+Americas,Bolivia (Plurinational State of),2018,133.2
+Europe,Montenegro,2018,132.7
+South-East Asia,Myanmar,2018,133.2
+Europe,Turkmenistan,2018,134.2
+Americas,United States of America,2018,134.1
+Americas,Barbados,2018,134.6
+Europe,Tajikistan,2018,135.3
+Americas,Argentina,2018,135.9
+South-East Asia,Bangladesh,2018,137.3
+Europe,Bulgaria,2018,136.7
+Americas,Mexico,2018,137.4
+Europe,Romania,2018,137.4
+South-East Asia,India,2018,137.6
+Eastern Mediterranean,Iraq,2018,138
+Americas,Saint Vincent and the Grenadines,2018,139.2
+Africa,Cabo Verde,2018,140
+Africa,Sao Tome and Principe,2018,140.1
+South-East Asia,Thailand,2018,139.5
+Europe,Azerbaijan,2018,140.7
+Americas,Jamaica,2018,141.1
+Western Pacific,Malaysia,2018,141.5
+Eastern Mediterranean,Sudan,2018,140.7
+South-East Asia,Timor-Leste,2018,140.7
+Eastern Mediterranean,Egypt,2018,141.9
+Europe,Lithuania,2018,141.7
+South-East Asia,Sri Lanka,2018,143.3
+Americas,Bolivia (Plurinational State of),2018,143.6
+Western Pacific,Cambodia,2018,144.2
+Americas,Grenada,2018,143.6
+Europe,Kyrgyzstan,2018,144.4
+Europe,Serbia,2018,144.1
+Europe,Georgia,2018,144.5
+Americas,Honduras,2018,147.9
+Western Pacific,Lao People's Democratic Republic,2018,148
+Europe,Slovakia,2018,147.7
+Americas,Puerto Rico,2018,149.1
+Americas,Uruguay,2018,148.9
+Eastern Mediterranean,Libya,2018,149.6
+Africa,Mauritania,2018,151.1
+South-East Asia,Nepal,2018,151.2
+Americas,Nicaragua,2018,151.4
+Europe,Republic of Moldova,2018,151.4
+Americas,Venezuela (Bolivarian Republic of),2018,150.9
+Africa,Mauritania,2018,152.1
+Africa,Mauritius,2018,151.6
+Europe,Latvia,2018,153
+Africa,Mauritania,2018,153.1
+Eastern Mediterranean,Sudan,2018,152.7
+Europe,Uzbekistan,2018,153.6
+Europe,Belarus,2018,154.8
+Western Pacific,Indonesia,2018,155.2
+Africa,Ethiopia,2018,156
+Americas,Belize,2018,157.3
+Americas,Paraguay,2018,156.9
+Eastern Mediterranean,Yemen,2018,157.4
+Africa,Comoros,2018,158.1
+Americas,Dominican Republic,2018,158.3
+Europe,Estonia,2018,157.6
+Africa,Sao Tome and Principe,2018,157.6
+Europe,Kazakhstan,2018,159.4
+Africa,Seychelles,2018,158.5
+Americas,Saint Lucia,2018,160.7
+South-East Asia,Timor-Leste,2018,161.4
+South-East Asia,Democratic People's Republic of Korea,2018,163
+Americas,Trinidad and Tobago,2018,163.1
+Europe,Poland,2018,164.3
+Africa,Senegal,2018,163.7
+Americas,Honduras,2018,165.1
+Western Pacific,Tonga,2018,164.6
+Africa,Benin,2018,166.5
+Europe,Hungary,2018,166.5
+Eastern Mediterranean,Sudan,2018,165.7
+South-East Asia,India,2018,166.7
+Americas,Guatemala,2018,168.1
+Americas,El Salvador,2018,169.2
+Americas,Guyana,2018,168.5
+Africa,Nigeria,2018,169.4
+Americas,Grenada,2018,170
+Eastern Mediterranean,Pakistan,2018,169.7
+Eastern Mediterranean,Iraq,2018,170.9
+Africa,Rwanda,2018,172.3
+Americas,Brazil,2018,173.7
+Americas,Suriname,2018,174.3
+Europe,Armenia,2018,174.9
+Western Pacific,Samoa,2018,175.2
+Africa,Sao Tome and Principe,2018,174.6
+Africa,Comoros,2018,175.9
+Africa,Ethiopia,2018,175.9
+Americas,Jamaica,2018,175.7
+Americas,Bahamas,2018,176.9
+Eastern Mediterranean,Egypt,2018,176.5
+Americas,Saint Vincent and the Grenadines,2018,178.3
+Western Pacific,Indonesia,2018,178.8
+Eastern Mediterranean,Libya,2018,178.9
+Western Pacific,Malaysia,2018,178.7
+South-East Asia,Nepal,2018,179
+South-East Asia,Timor-Leste,2018,180.5
+Western Pacific,Vanuatu,2018,180.8
+Americas,Honduras,2018,182.4
+Western Pacific,Lao People's Democratic Republic,2018,182.3
+Eastern Mediterranean,Pakistan,2018,182.3
+South-East Asia,Myanmar,2018,182.7
+Europe,Bulgaria,2018,183.9
+Western Pacific,Fiji,2018,184.2
+Europe,Ukraine,2018,183.8
+Western Pacific,Cambodia,2018,185.3
+Americas,Mexico,2018,186.1
+Africa,Senegal,2018,185.8
+Europe,Turkmenistan,2018,187.1
+Western Pacific,Viet Nam,2018,187.1
+Western Pacific,Philippines,2018,187.5
+Africa,Uganda,2018,188
+Europe,Uzbekistan,2018,189
+Africa,Nigeria,2018,190.2
+Africa,Burkina Faso,2018,190.9
+Europe,Russian Federation,2018,191.3
+Europe,Romania,2018,192.2
+Africa,Comoros,2018,192.8
+South-East Asia,India,2018,193.5
+Western Pacific,Papua New Guinea,2018,192.6
+Americas,Belize,2018,193.9
+Africa,Niger,2018,194.2
+Eastern Mediterranean,Pakistan,2018,194.4
+South-East Asia,Thailand,2018,195.5
+Africa,Cabo Verde,2018,197
+Africa,Ethiopia,2018,196.7
+Africa,Ghana,2018,196.9
+Africa,Mauritius,2018,197.3
+Europe,Kyrgyzstan,2018,198.1
+Africa,Rwanda,2018,199
+Western Pacific,Samoa,2018,198.9
+Western Pacific,Tonga,2018,200.4
+Africa,United Republic of Tanzania,2018,202.2
+Africa,Benin,2018,205
+Africa,Burundi,2018,204.8
+Americas,Dominican Republic,2018,204.6
+Africa,Cote d'Ivoire,2018,205.6
+South-East Asia,Democratic People's Republic of Korea,2018,206.2
+Africa,Seychelles,2018,205.9
+Europe,Lithuania,2018,207.3
+Americas,Trinidad and Tobago,2018,206.7
+Africa,Kenya,2018,208.1
+Africa,Senegal,2018,208
+Americas,Venezuela (Bolivarian Republic of),2018,208.2
+Africa,Togo,2018,209.4
+Americas,Guatemala,2018,210.3
+Western Pacific,Mongolia,2018,210.1
+Africa,Nigeria,2018,210.6
+Western Pacific,Micronesia (Federated States of),2018,211.9
+Western Pacific,Papua New Guinea,2018,211.8
+Eastern Mediterranean,Djibouti,2018,212.8
+Africa,Gabon,2018,213.2
+Africa,Niger,2018,212.7
+Americas,Saint Vincent and the Grenadines,2018,212.7
+Eastern Mediterranean,Yemen,2018,213.3
+Africa,Gambia,2018,214.4
+Africa,Democratic Republic of the Congo,2018,214.8
+Western Pacific,Lao People's Democratic Republic,2018,215.9
+Americas,Suriname,2018,216.4
+Western Pacific,Fiji,2018,220.2
+Africa,Madagascar,2018,220.7
+Western Pacific,Samoa,2018,221.1
+Europe,Latvia,2018,222.3
+Europe,Georgia,2018,223
+Africa,Liberia,2018,223
+Europe,Republic of Moldova,2018,222.6
+Africa,Mali,2018,223.5
+Africa,Angola,2018,225
+Americas,Guyana,2018,224.6
+Europe,Kazakhstan,2018,225
+Americas,Bahamas,2018,225.8
+Africa,United Republic of Tanzania,2018,227
+Africa,Sierra Leone,2018,227.9
+Western Pacific,Cambodia,2018,229
+Western Pacific,Papua New Guinea,2018,229.2
+Western Pacific,Solomon Islands,2018,229
+Africa,Niger,2018,230.2
+Africa,Rwanda,2018,229.7
+Africa,Mali,2018,231.3
+South-East Asia,Myanmar,2018,231
+Europe,Belarus,2018,231.6
+Africa,Guinea,2018,231.6
+Africa,Liberia,2018,233.4
+Africa,Burkina Faso,2018,234.5
+Africa,Eritrea,2018,234.6
+Africa,Chad,2018,236.1
+Eastern Mediterranean,Djibouti,2018,236.2
+Africa,Madagascar,2018,235.9
+Western Pacific,Kiribati,2018,237.4
+Africa,Burundi,2018,238.6
+Africa,Mali,2018,238.9
+Africa,Ghana,2018,239.8
+Africa,Sierra Leone,2018,242.5
+Africa,South Africa,2018,241.8
+Western Pacific,Philippines,2018,242.8
+Eastern Mediterranean,Syrian Arab Republic,2018,243.2
+Africa,Uganda,2018,243.5
+Africa,Benin,2018,243.8
+Europe,Turkmenistan,2018,243.8
+Africa,Liberia,2018,244.6
+Africa,Cote d'Ivoire,2018,247.4
+Africa,Cameroon,2018,247
+Africa,Guinea,2018,247.5
+Africa,Malawi,2018,246.7
+Africa,Kenya,2018,247.9
+Africa,Gambia,2018,249.4
+Eastern Mediterranean,United Arab Emirates,2018,24.93
+Africa,Madagascar,2018,251.1
+Americas,Haiti,2018,251.7
+Africa,Democratic Republic of the Congo,2018,253.3
+Africa,Namibia,2018,252.8
+Africa,South Sudan,2018,253.8
+Africa,United Republic of Tanzania,2018,253.8
+Americas,El Salvador,2018,254.8
+Western Pacific,Fiji,2018,254.8
+Western Pacific,Vanuatu,2018,254.7
+Americas,Haiti,2018,256.1
+Africa,Angola,2018,258.3
+Africa,Equatorial Guinea,2018,257.7
+Africa,Sierra Leone,2018,257.6
+Africa,Gabon,2018,259.1
+Africa,Togo,2018,259.5
+Eastern Mediterranean,Djibouti,2018,260.6
+Americas,Haiti,2018,260.8
+Africa,Chad,2018,262
+Eastern Mediterranean,Yemen,2018,264.7
+Africa,Guinea,2018,266.5
+Europe,Ukraine,2018,268.4
+Western Pacific,Micronesia (Federated States of),2018,269.4
+Africa,Botswana,2018,270.6
+Africa,Burundi,2018,273
+Europe,Russian Federation,2018,276
+Africa,Zambia,2018,275.8
+Africa,Cameroon,2018,278.2
+Africa,Equatorial Guinea,2018,279.7
+Africa,Burkina Faso,2018,280.9
+Americas,Guyana,2018,280.7
+Eastern Mediterranean,Afghanistan,2018,281.6
+Africa,Ghana,2018,281.9
+Africa,Cote d'Ivoire,2018,282.9
+Africa,Gambia,2018,286.1
+Africa,Kenya,2018,286.2
+Western Pacific,Solomon Islands,2018,286.2
+Africa,Guinea-Bissau,2018,287.9
+Africa,Chad,2018,288.6
+Africa,Eritrea,2018,289.1
+Eastern Mediterranean,Kuwait,2018,28.51
+Africa,Democratic Republic of the Congo,2018,291.9
+Africa,Angola,2018,293.2
+Africa,South Sudan,2018,294.5
+Africa,Congo,2018,295.6
+Western Pacific,Mongolia,2018,295.8
+Africa,South Africa,2018,296.9
+Africa,Congo,2018,297.6
+Africa,Equatorial Guinea,2018,297.7
+Africa,Congo,2018,299.6
+Africa,Gabon,2018,299.9
+Africa,Malawi,2018,299.6
+Africa,Uganda,2018,300.4
+Eastern Mediterranean,Somalia,2018,300.8
+Africa,Botswana,2018,302.9
+Africa,Mozambique,2018,303
+Africa,Togo,2018,307.3
+Eastern Mediterranean,Afghanistan,2018,308
+Africa,Cameroon,2018,309.1
+Africa,Zambia,2018,317
+Western Pacific,Vanuatu,2018,319.3
+Africa,Namibia,2018,320.7
+Western Pacific,Micronesia (Federated States of),2018,326.1
+Western Pacific,Kiribati,2018,326.9
+Eastern Mediterranean,Afghanistan,2018,333
+Africa,Botswana,2018,335.9
+Western Pacific,Solomon Islands,2018,336.3
+Africa,Guinea-Bissau,2018,338.2
+Africa,South Sudan,2018,337.9
+Africa,Eritrea,2018,346.6
+Eastern Mediterranean,Syrian Arab Republic,2018,346.8
+Europe,Cyprus,2018,35
+Western Pacific,Republic of Korea,2018,34.75
+Western Pacific,Singapore,2018,34.6
+Europe,Switzerland,2018,35.1
+Africa,Zimbabwe,2018,354.9
+Africa,Malawi,2018,357
+Africa,South Africa,2018,356.7
+Western Pacific,Japan,2018,35.56
+Europe,Luxembourg,2018,36.18
+Africa,Zambia,2018,359.9
+Eastern Mediterranean,Somalia,2018,362.5
+Europe,Albania,2018,36.84
+Europe,Israel,2018,36.8
+Europe,Italy,2018,37.25
+Europe,Spain,2018,37.33
+Africa,Mozambique,2018,370.2
+Europe,Norway,2018,38.47
+Europe,Sweden,2018,38.45
+Africa,Central African Republic,2018,381.5
+Africa,Namibia,2018,391.9
+Africa,Guinea-Bissau,2018,393.7
+Africa,Zimbabwe,2018,397.8
+Europe,Iceland,2018,40.02
+Africa,Eswatini,2018,400.4
+Europe,Malta,2018,41.06
+Western Pacific,Kiribati,2018,416.8
+Europe,Greece,2018,41.95
+South-East Asia,Maldives,2018,41.7
+Eastern Mediterranean,Somalia,2018,422.2
+Western Pacific,Australia,2018,42.97
+Europe,Slovenia,2018,42.64
+Eastern Mediterranean,United Arab Emirates,2018,43.03
+Europe,Austria,2018,43.91
+Europe,Finland,2018,44.21
+Europe,Portugal,2018,43.63
+Europe,Ireland,2018,44.77
+Africa,Zimbabwe,2018,449.6
+Africa,Mozambique,2018,451
+Africa,Central African Republic,2018,455.3
+Europe,France,2018,46.19
+Eastern Mediterranean,Qatar,2018,46.38
+Europe,Switzerland,2018,46.43
+Europe,Netherlands (Kingdom of the),2018,46.73
+Africa,Lesotho,2018,478.7
+Europe,Denmark,2018,47.55
+Europe,Germany,2018,48.29
+Europe,Belgium,2018,49.33
+Eastern Mediterranean,Lebanon,2018,49.43
+Europe,Luxembourg,2018,48.7
+Western Pacific,Singapore,2018,48.53
+Africa,Eswatini,2018,489.6
+Americas,Canada,2018,50.25
+Europe,Czechia,2018,50.6
+Europe,Italy,2018,51.41
+Western Pacific,Japan,2018,50.52
+Eastern Mediterranean,Jordan,2018,50.82
+Western Pacific,New Zealand,2018,50.92
+Europe,Norway,2018,50.66
+Europe,Sweden,2018,50.64
+Europe,Cyprus,2018,51.74
+Europe,Malta,2018,51.68
+Eastern Mediterranean,United Arab Emirates,2018,52
+Americas,Chile,2018,53.36
+Europe,Türkiye,2018,52.79
+Africa,Central African Republic,2018,535.8
+Europe,Croatia,2018,53.52
+Europe,Israel,2018,53.88
+Eastern Mediterranean,Kuwait,2018,54
+Europe,Iceland,2018,54.73
+Europe,Netherlands (Kingdom of the),2018,55.38
+Africa,Lesotho,2018,558.5
+Western Pacific,China,2018,56.12
+Europe,Estonia,2018,55.9
+Americas,Puerto Rico,2018,56.33
+Europe,Spain,2018,55.75
+Europe,United Kingdom of Great Britain and Northern Ireland,2018,55.75
+Western Pacific,Republic of Korea,2018,57.17
+Europe,Switzerland,2018,57.39
+Western Pacific,Australia,2018,58.2
+Europe,Ireland,2018,57.56
+Africa,Eswatini,2018,580.2
+Americas,Costa Rica,2018,58.89
+Eastern Mediterranean,Iran (Islamic Republic of),2018,59.3
+Europe,Bosnia and Herzegovina,2018,60.05
+Europe,Luxembourg,2018,60.32
+Eastern Mediterranean,Tunisia,2018,60.32
+Western Pacific,Singapore,2018,61.39
+Europe,Armenia,2018,62.05
+Europe,Austria,2018,61.78
+Europe,Denmark,2018,61.84
+Europe,Malta,2018,61.57
+Europe,Norway,2018,62.11
+South-East Asia,Sri Lanka,2018,61.67
+Europe,Sweden,2018,62.22
+Americas,Colombia,2018,63.01
+Europe,North Macedonia,2018,63.09
+Americas,Panama,2018,63.22
+Europe,Slovakia,2018,63.07
+Africa,Lesotho,2018,637.1
+Eastern Mediterranean,Jordan,2018,63.91
+South-East Asia,Maldives,2018,63.51
+Europe,Netherlands (Kingdom of the),2018,63.91
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2018,63.85
+Europe,Poland,2018,63.88
+Europe,Albania,2018,64.62
+Europe,Azerbaijan,2018,65.12
+Europe,Belgium,2018,65.16
+Western Pacific,Japan,2018,64.81
+Western Pacific,New Zealand,2018,64.82
+Europe,Italy,2018,65.56
+Eastern Mediterranean,Oman,2018,66.34
+Europe,Slovenia,2018,65.69
+Americas,Canada,2018,67.28
+Eastern Mediterranean,Kuwait,2018,67.45
+Europe,Montenegro,2018,67.17
+Europe,Cyprus,2018,68.25
+Europe,Finland,2018,67.51
+Europe,France,2018,68.09
+Europe,Germany,2018,67.96
+Europe,Greece,2018,68.23
+Europe,Iceland,2018,68.3
+Eastern Mediterranean,Lebanon,2018,68.06
+Eastern Mediterranean,Qatar,2018,69.18
+Eastern Mediterranean,Bahrain,2018,69.8
+Europe,Ireland,2018,70.41
+Europe,Israel,2018,71.2
+Americas,Cuba,2018,71.67
+Europe,Georgia,2018,72.25
+Europe,Portugal,2018,72.14
+Eastern Mediterranean,Saudi Arabia,2018,71.78
+Europe,United Kingdom of Great Britain and Northern Ireland,2018,72.11
+Western Pacific,Australia,2018,73.48
+Africa,Algeria,2018,73.71
+Europe,Spain,2018,73.94
+Western Pacific,Viet Nam,2018,74.08
+Americas,Ecuador,2018,75.38
+Eastern Mediterranean,Jordan,2018,75.41
+Americas,Peru,2018,74.51
+Europe,Denmark,2018,75.73
+Europe,Lithuania,2018,76.34
+Eastern Mediterranean,Qatar,2018,76.09
+Europe,Serbia,2018,75.7
+Eastern Mediterranean,Bahrain,2018,76.64
+Americas,Chile,2018,76.72
+Africa,Cabo Verde,2018,78.46
+Europe,Hungary,2018,77.7
+Americas,Nicaragua,2018,77.78
+Europe,Austria,2018,79.2
+South-East Asia,Maldives,2018,79.16
+Western Pacific,New Zealand,2018,78.9
+Western Pacific,Republic of Korea,2018,78.65
+Americas,United States of America,2018,79.28
+Americas,Uruguay,2018,78.64
+Eastern Mediterranean,Bahrain,2018,80.09
+Europe,Belarus,2018,79.95
+Americas,Argentina,2018,80.97
+Europe,Belgium,2018,80.54
+Europe,Czechia,2018,80.92
+Europe,Romania,2018,80.57
+Europe,Türkiye,2018,81.42
+Western Pacific,Brunei Darussalam,2018,82.13
+South-East Asia,Thailand,2018,82.11
+Africa,Algeria,2018,82.51
+Americas,Brazil,2018,83.09
+Americas,Canada,2018,83.94
+Europe,Latvia,2018,84.59
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2018,85.21
+Europe,Bulgaria,2018,86.43
+Americas,Costa Rica,2018,86.11
+Europe,Republic of Moldova,2018,86.02
+Eastern Mediterranean,Tunisia,2018,85.79
+Europe,Germany,2018,86.89
+Eastern Mediterranean,Saudi Arabia,2018,87.23
+Europe,Slovenia,2018,87.1
+Europe,Croatia,2018,88
+Eastern Mediterranean,Iran (Islamic Republic of),2018,87.61
+Eastern Mediterranean,Lebanon,2018,87.72
+Americas,Paraguay,2018,87.84
+Western Pacific,China,2018,88.78
+Europe,North Macedonia,2018,89.47
+Europe,United Kingdom of Great Britain and Northern Ireland,2018,88.77
+Europe,Bosnia and Herzegovina,2018,90.39
+Europe,Finland,2018,89.76
+Europe,France,2018,90.3
+Europe,Kyrgyzstan,2018,89.65
+Africa,Algeria,2018,90.75
+Americas,Antigua and Barbuda,2018,91.37
+Americas,Colombia,2018,90.64
+Americas,Mexico,2018,90.88
+Americas,Panama,2018,90.97
+Europe,Tajikistan,2018,90.9
+Americas,Venezuela (Bolivarian Republic of),2018,90.52
+Americas,Peru,2018,91.88
+Americas,Saint Lucia,2018,91.59
+Americas,Barbados,2018,93.16
+Europe,Albania,2018,93.91
+Americas,El Salvador,2018,95.31
+Europe,Greece,2018,95.53
+Eastern Mediterranean,Saudi Arabia,2018,96.1
+Europe,Kazakhstan,2018,96.62
+Europe,Ukraine,2018,96.94
+Americas,Cuba,2018,98.31
+Western Pacific,Malaysia,2018,99.23
+Europe,Montenegro,2018,99.42
+Western Pacific,Brunei Darussalam,2017,99.66
+Africa,Mauritius,2017,99.7
+South-East Asia,Bhutan,2017,101.1
+Western Pacific,Malaysia,2017,101.2
+Africa,Seychelles,2017,101
+Americas,Ecuador,2017,102.3
+South-East Asia,Bangladesh,2017,102.9
+Americas,Chile,2017,102.5
+Americas,El Salvador,2017,102.7
+Americas,Peru,2017,103.5
+South-East Asia,Sri Lanka,2017,103
+Europe,Portugal,2017,104
+Eastern Mediterranean,Oman,2017,105
+Europe,Slovakia,2017,105.3
+Eastern Mediterranean,Egypt,2017,105.5
+Europe,Estonia,2017,106.1
+Europe,Azerbaijan,2017,106.8
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2017,107.7
+Europe,Russian Federation,2017,107.8
+Americas,Argentina,2017,109
+Europe,Armenia,2017,108.6
+Europe,Czechia,2017,109
+Americas,United States of America,2017,109.5
+Americas,Costa Rica,2017,110.3
+Americas,Jamaica,2017,110.2
+Americas,Antigua and Barbuda,2017,111.2
+Americas,Dominican Republic,2017,110.6
+Americas,Uruguay,2017,110.9
+Americas,Nicaragua,2017,112.5
+Eastern Mediterranean,Tunisia,2017,111.9
+Europe,Poland,2017,113
+Europe,Serbia,2017,113
+Europe,Türkiye,2017,112.7
+Americas,Barbados,2017,113.7
+Western Pacific,Brunei Darussalam,2017,114.9
+Americas,Colombia,2017,115.3
+Eastern Mediterranean,Iran (Islamic Republic of),2017,115.1
+Europe,North Macedonia,2017,115.2
+Europe,Tajikistan,2017,114.7
+Eastern Mediterranean,Morocco,2017,115.8
+Americas,Puerto Rico,2017,116.2
+South-East Asia,Bhutan,2017,116.9
+Americas,Grenada,2017,116.5
+Americas,Panama,2017,117.4
+Eastern Mediterranean,Iraq,2017,118.1
+Americas,Trinidad and Tobago,2017,117.6
+Americas,Belize,2017,118.6
+South-East Asia,Democratic People's Republic of Korea,2017,118.6
+Europe,Croatia,2017,120.4
+South-East Asia,Bangladesh,2017,121.1
+Europe,Bosnia and Herzegovina,2017,120.7
+Western Pacific,China,2017,121.2
+Eastern Mediterranean,Libya,2017,120.8
+Eastern Mediterranean,Morocco,2017,120.5
+Eastern Mediterranean,Oman,2017,121.7
+Americas,Paraguay,2017,122
+Western Pacific,Mongolia,2017,122.9
+Americas,Bolivia (Plurinational State of),2017,124.5
+Europe,Hungary,2017,124.2
+Americas,Guatemala,2017,125.1
+Eastern Mediterranean,Morocco,2017,125.1
+Americas,Cuba,2017,126.7
+Western Pacific,Philippines,2017,127.1
+Americas,Ecuador,2017,128.1
+South-East Asia,Nepal,2017,128.1
+Americas,Saint Lucia,2017,127.6
+Europe,Uzbekistan,2017,128
+Americas,Suriname,2017,128.9
+South-East Asia,Bhutan,2017,130
+Americas,Bahamas,2017,130.8
+Europe,Montenegro,2017,131.4
+Western Pacific,Tonga,2017,130.8
+Americas,Brazil,2017,132.4
+Western Pacific,Viet Nam,2017,131.8
+Americas,Antigua and Barbuda,2017,133.2
+Western Pacific,Indonesia,2017,132.7
+Americas,Barbados,2017,135.1
+Americas,Bolivia (Plurinational State of),2017,135.3
+Americas,Argentina,2017,136.4
+Americas,Mexico,2017,135.5
+Europe,Romania,2017,136.1
+Americas,United States of America,2017,136.2
+Europe,Bulgaria,2017,136.7
+Europe,Turkmenistan,2017,136.5
+Europe,Tajikistan,2017,137.6
+South-East Asia,Bangladesh,2017,140.2
+South-East Asia,Myanmar,2017,140.1
+Americas,Saint Vincent and the Grenadines,2017,139.7
+South-East Asia,Thailand,2017,140.3
+South-East Asia,India,2017,140.7
+Africa,Sao Tome and Principe,2017,141.5
+South-East Asia,Timor-Leste,2017,141.5
+Americas,Uruguay,2017,140.9
+Africa,Cabo Verde,2017,142.4
+Western Pacific,Malaysia,2017,141.6
+Eastern Mediterranean,Sudan,2017,142.5
+Eastern Mediterranean,Egypt,2017,144.3
+South-East Asia,Sri Lanka,2017,144.5
+Americas,Jamaica,2017,144.5
+Europe,Lithuania,2017,145.5
+Europe,Slovakia,2017,144.8
+Americas,Bolivia (Plurinational State of),2017,145.9
+Western Pacific,Cambodia,2017,146.3
+Americas,Grenada,2017,146.3
+Americas,Nicaragua,2017,146.8
+Eastern Mediterranean,Syrian Arab Republic,2017,147.3
+Europe,Azerbaijan,2017,148.1
+Europe,Georgia,2017,147.9
+Americas,Honduras,2017,148.6
+Europe,Serbia,2017,148.8
+Europe,Kyrgyzstan,2017,150.2
+Western Pacific,Lao People's Democratic Republic,2017,150.3
+Africa,Mauritius,2017,149.7
+Americas,Venezuela (Bolivarian Republic of),2017,150.1
+Eastern Mediterranean,Yemen,2017,149.7
+Europe,Latvia,2017,152.1
+Africa,Mauritania,2017,152
+Europe,Republic of Moldova,2017,151.6
+Africa,Mauritania,2017,153.7
+South-East Asia,Nepal,2017,153.7
+Europe,Estonia,2017,155
+Eastern Mediterranean,Libya,2017,155.1
+Africa,Mauritania,2017,155.4
+Americas,Paraguay,2017,155.1
+Eastern Mediterranean,Sudan,2017,154.5
+Europe,Belarus,2017,156.5
+Western Pacific,Indonesia,2017,157.1
+Africa,Ethiopia,2017,158.9
+Africa,Sao Tome and Principe,2017,159
+Africa,Seychelles,2017,158.8
+Americas,Dominican Republic,2017,159.9
+Europe,Kazakhstan,2017,160.3
+Americas,Belize,2017,160.6
+Africa,Comoros,2017,160.9
+Europe,Poland,2017,161.3
+Americas,Trinidad and Tobago,2017,161.4
+Americas,Puerto Rico,2017,161.6
+Americas,Saint Lucia,2017,161.7
+South-East Asia,Timor-Leste,2017,162
+Americas,Honduras,2017,163.1
+South-East Asia,Democratic People's Republic of Korea,2017,164
+Western Pacific,Tonga,2017,166
+Americas,Guatemala,2017,167.3
+Eastern Mediterranean,Iraq,2017,166.6
+Europe,Uzbekistan,2017,167.4
+Europe,Hungary,2017,168
+Africa,Senegal,2017,167.8
+Eastern Mediterranean,Sudan,2017,167.6
+Africa,Benin,2017,169.8
+South-East Asia,India,2017,170.3
+Africa,Nigeria,2017,170.2
+Europe,Armenia,2017,170.7
+Eastern Mediterranean,Pakistan,2017,172.7
+Americas,Suriname,2017,172.8
+Americas,Grenada,2017,173.6
+Americas,Guyana,2017,173.8
+Americas,El Salvador,2017,174.7
+Africa,Rwanda,2017,175.3
+Western Pacific,Samoa,2017,175.9
+Africa,Sao Tome and Principe,2017,176.2
+Europe,Ukraine,2017,176.4
+Western Pacific,Malaysia,2017,177.4
+Americas,Honduras,2017,177.9
+Americas,Bahamas,2017,178.8
+Americas,Brazil,2017,178.9
+Africa,Ethiopia,2017,179
+Americas,Jamaica,2017,179.1
+Americas,Saint Vincent and the Grenadines,2017,179.2
+Africa,Comoros,2017,179.9
+Eastern Mediterranean,Egypt,2017,181.3
+Western Pacific,Indonesia,2017,180.9
+South-East Asia,Timor-Leste,2017,180.9
+Western Pacific,Vanuatu,2017,181.2
+South-East Asia,Nepal,2017,181.7
+Americas,Mexico,2017,182.6
+Europe,Bulgaria,2017,183.8
+Western Pacific,Lao People's Democratic Republic,2017,185.5
+Eastern Mediterranean,Pakistan,2017,185.4
+Western Pacific,Fiji,2017,185.7
+Eastern Mediterranean,Libya,2017,187
+Western Pacific,Cambodia,2017,187.8
+Western Pacific,Philippines,2017,188.4
+Europe,Romania,2017,190.1
+Africa,Senegal,2017,190
+Europe,Turkmenistan,2017,189.9
+Western Pacific,Viet Nam,2017,190
+Eastern Mediterranean,Yemen,2017,191.5
+South-East Asia,Myanmar,2017,192.3
+Africa,Nigeria,2017,191.6
+Western Pacific,Papua New Guinea,2017,193.2
+Europe,Russian Federation,2017,192.7
+Africa,Uganda,2017,193.2
+Africa,Burkina Faso,2017,195.3
+Africa,Mauritius,2017,195.7
+Africa,Niger,2017,197.1
+South-East Asia,Thailand,2017,196.7
+Africa,Comoros,2017,198.1
+South-East Asia,India,2017,197.5
+Eastern Mediterranean,Pakistan,2017,197.8
+Africa,Cabo Verde,2017,199.5
+Africa,Ethiopia,2017,199.9
+Western Pacific,Samoa,2017,199.7
+Americas,Belize,2017,200.6
+Africa,Ghana,2017,202
+Africa,Rwanda,2017,202.5
+Western Pacific,Tonga,2017,201.8
+Americas,Trinidad and Tobago,2017,203.8
+Africa,Seychelles,2017,206.1
+Europe,Uzbekistan,2017,205.9
+South-East Asia,Democratic People's Republic of Korea,2017,207.4
+Europe,Kyrgyzstan,2017,206.9
+Africa,United Republic of Tanzania,2017,206.7
+Americas,Venezuela (Bolivarian Republic of),2017,207.3
+Africa,Benin,2017,208.1
+Americas,Dominican Republic,2017,207.7
+Africa,Burundi,2017,210
+Americas,Guatemala,2017,210.9
+Africa,Gabon,2017,212.4
+Western Pacific,Mongolia,2017,211.8
+Western Pacific,Papua New Guinea,2017,212.2
+Africa,Senegal,2017,212.5
+Europe,Lithuania,2017,213
+Western Pacific,Micronesia (Federated States of),2017,212.7
+Africa,Nigeria,2017,212.7
+Americas,Saint Vincent and the Grenadines,2017,213.9
+Americas,Suriname,2017,213.5
+Africa,Cote d'Ivoire,2017,215.4
+Eastern Mediterranean,Iraq,2017,214.6
+Africa,Niger,2017,215.4
+Africa,Kenya,2017,215.6
+Africa,Gambia,2017,217.5
+Africa,Togo,2017,217.9
+Eastern Mediterranean,Djibouti,2017,218.9
+Western Pacific,Lao People's Democratic Republic,2017,219.9
+Western Pacific,Fiji,2017,221.8
+Europe,Latvia,2017,221.6
+Europe,Republic of Moldova,2017,222.1
+Western Pacific,Samoa,2017,221.9
+Africa,Angola,2017,222.9
+Africa,Madagascar,2017,223.5
+Africa,Democratic Republic of the Congo,2017,224.8
+Europe,Kazakhstan,2017,226.4
+Americas,Bahamas,2017,228.1
+Europe,Georgia,2017,227.8
+Africa,Mali,2017,227.7
+Western Pacific,Kiribati,2017,229
+Western Pacific,Papua New Guinea,2017,229.3
+Western Pacific,Solomon Islands,2017,230.3
+Americas,Guyana,2017,231
+Eastern Mediterranean,Yemen,2017,230.9
+Africa,Liberia,2017,232.1
+Africa,United Republic of Tanzania,2017,232.1
+Western Pacific,Cambodia,2017,232.6
+Africa,Mali,2017,233.4
+Africa,Niger,2017,232.8
+Europe,Belarus,2017,234.3
+Africa,Rwanda,2017,233.8
+Africa,Guinea,2017,236.9
+Africa,Eritrea,2017,238.4
+Africa,Sierra Leone,2017,238.3
+Africa,Burkina Faso,2017,239.5
+Africa,Chad,2017,239.1
+Africa,Madagascar,2017,239.1
+Africa,Mali,2017,239
+Eastern Mediterranean,Djibouti,2017,241.2
+Africa,Liberia,2017,240.9
+Africa,Burundi,2017,243.1
+South-East Asia,Myanmar,2017,243
+Africa,Ghana,2017,246.2
+Africa,Benin,2017,246.7
+Western Pacific,Philippines,2017,247.2
+Europe,Turkmenistan,2017,247.3
+Africa,Malawi,2017,248
+Eastern Mediterranean,United Arab Emirates,2017,25.22
+Africa,Liberia,2017,250.5
+Africa,Sierra Leone,2017,251.4
+Africa,Uganda,2017,250.6
+Africa,Gambia,2017,252
+Africa,South Africa,2017,251.8
+Africa,Guinea,2017,253.4
+Africa,South Sudan,2017,253.8
+Americas,Haiti,2017,254.7
+Africa,Madagascar,2017,254.8
+Western Pacific,Vanuatu,2017,255.3
+Americas,El Salvador,2017,257.5
+Western Pacific,Fiji,2017,256.5
+Africa,Kenya,2017,256.9
+Europe,Ukraine,2017,257.2
+Africa,Angola,2017,257.6
+Africa,Cote d'Ivoire,2017,258
+Americas,Haiti,2017,258.3
+Africa,Gabon,2017,259.6
+Africa,United Republic of Tanzania,2017,259.8
+Africa,Equatorial Guinea,2017,261.1
+Africa,Democratic Republic of the Congo,2017,262.2
+Americas,Haiti,2017,262.1
+Africa,Cameroon,2017,262.8
+Africa,Chad,2017,263.4
+Eastern Mediterranean,Djibouti,2017,264.5
+Africa,Sierra Leone,2017,265.2
+Africa,Namibia,2017,267.8
+Africa,Togo,2017,268.7
+Western Pacific,Micronesia (Federated States of),2017,270.5
+Africa,Guinea,2017,273.2
+Africa,Burundi,2017,277
+Africa,Botswana,2017,278.4
+Europe,Russian Federation,2017,278.8
+Africa,Zambia,2017,278.9
+Africa,Equatorial Guinea,2017,280.1
+Eastern Mediterranean,Afghanistan,2017,281.3
+Africa,Burkina Faso,2017,286.5
+Africa,Chad,2017,288.4
+Africa,Gambia,2017,288.4
+Western Pacific,Solomon Islands,2017,287.8
+Americas,Guyana,2017,288.7
+Africa,Ghana,2017,289.6
+Africa,Guinea-Bissau,2017,290.8
+Africa,Cameroon,2017,292.2
+Africa,Angola,2017,293.9
+Africa,Cote d'Ivoire,2017,293.9
+Africa,Eritrea,2017,293.6
+Africa,South Sudan,2017,294.8
+Africa,Equatorial Guinea,2017,296.2
+Africa,Kenya,2017,296.7
+Africa,Congo,2017,297.8
+Western Pacific,Mongolia,2017,298.2
+Eastern Mediterranean,Afghanistan,2017,299
+Africa,Congo,2017,299.1
+Eastern Mediterranean,Kuwait,2017,29.75
+Africa,Congo,2017,300.4
+Africa,Democratic Republic of the Congo,2017,299.7
+Western Pacific,Kiribati,2017,300.1
+Africa,Gabon,2017,301.5
+Africa,Malawi,2017,303.3
+Eastern Mediterranean,Somalia,2017,304.4
+Africa,South Africa,2017,307.2
+Africa,Uganda,2017,309.5
+Africa,Botswana,2017,311.2
+Africa,Mozambique,2017,314.6
+Eastern Mediterranean,Afghanistan,2017,315.8
+Africa,Togo,2017,317.2
+Africa,Zambia,2017,318.8
+Western Pacific,Vanuatu,2017,320.1
+Africa,Cameroon,2017,321.5
+Western Pacific,Micronesia (Federated States of),2017,327.3
+Western Pacific,Republic of Korea,2017,33.47
+Africa,Namibia,2017,329.9
+Eastern Mediterranean,Syrian Arab Republic,2017,336.9
+Africa,Guinea-Bissau,2017,338.1
+Western Pacific,Solomon Islands,2017,338.1
+Africa,South Sudan,2017,338.1
+Europe,Switzerland,2017,34.27
+Africa,Botswana,2017,344.9
+Western Pacific,Japan,2017,35.49
+Africa,Eritrea,2017,351.8
+Europe,Cyprus,2017,35.95
+Europe,Luxembourg,2017,36.19
+Africa,Zambia,2017,360.9
+Africa,Malawi,2017,362.5
+Africa,Zimbabwe,2017,363.4
+Eastern Mediterranean,Somalia,2017,367.2
+Africa,South Africa,2017,368.4
+Europe,Italy,2017,37.38
+Western Pacific,Kiribati,2017,373.9
+Europe,Israel,2017,38.21
+Western Pacific,Singapore,2017,37.61
+Europe,Spain,2017,38.16
+Africa,Mozambique,2017,381.8
+Europe,Norway,2017,39.12
+Europe,Sweden,2017,39.14
+Africa,Guinea-Bissau,2017,391.4
+Africa,Central African Republic,2017,393.8
+Africa,Namibia,2017,396.1
+Europe,Albania,2017,39.98
+Europe,Iceland,2017,40
+Africa,Zimbabwe,2017,406.2
+Europe,Malta,2017,41.27
+Africa,Eswatini,2017,417.6
+Europe,Austria,2017,41.74
+Eastern Mediterranean,Somalia,2017,427.7
+Europe,Greece,2017,42.91
+Western Pacific,Australia,2017,43.52
+South-East Asia,Maldives,2017,44.4
+Eastern Mediterranean,United Arab Emirates,2017,43.6
+Europe,Finland,2017,44.91
+Europe,Ireland,2017,45.42
+Europe,Portugal,2017,45.41
+Europe,Slovenia,2017,45.48
+Africa,Zimbabwe,2017,457.6
+Africa,Mozambique,2017,464.7
+Europe,Denmark,2017,47.02
+Europe,Netherlands (Kingdom of the),2017,47.26
+Europe,Switzerland,2017,47.36
+Africa,Central African Republic,2017,473
+Europe,France,2017,47.55
+Europe,Germany,2017,48.02
+Eastern Mediterranean,Qatar,2017,47.57
+Eastern Mediterranean,Syrian Arab Republic,2017,479.8
+Europe,Belgium,2017,49.37
+Europe,Luxembourg,2017,49.6
+Africa,Lesotho,2017,501.5
+Africa,Eswatini,2017,508.4
+Americas,Canada,2017,50.96
+Europe,Czechia,2017,51.45
+Western Pacific,Japan,2017,51.17
+Europe,Norway,2017,50.68
+Western Pacific,Singapore,2017,50.59
+Europe,Italy,2017,51.53
+Eastern Mediterranean,Lebanon,2017,51.67
+Europe,Sweden,2017,51.77
+Europe,Cyprus,2017,53.4
+Eastern Mediterranean,Jordan,2017,52.59
+Western Pacific,New Zealand,2017,53.01
+Eastern Mediterranean,United Arab Emirates,2017,52.71
+Europe,United Kingdom of Great Britain and Northern Ireland,2017,52.78
+Americas,Chile,2017,54.13
+Europe,Croatia,2017,53.88
+Europe,Israel,2017,54
+Europe,Malta,2017,53.56
+Europe,Türkiye,2017,54.07
+Europe,Iceland,2017,54.6
+Africa,Central African Republic,2017,556.4
+Eastern Mediterranean,Kuwait,2017,55.84
+Europe,Netherlands (Kingdom of the),2017,56.06
+Europe,Spain,2017,56.46
+Western Pacific,China,2017,56.92
+Europe,Estonia,2017,56.68
+Western Pacific,Republic of Korea,2017,56.98
+Africa,Lesotho,2017,576.9
+Europe,Armenia,2017,57.98
+Americas,Costa Rica,2017,58.2
+Western Pacific,Australia,2017,59.18
+Europe,Ireland,2017,58.86
+Eastern Mediterranean,Iran (Islamic Republic of),2017,60.14
+Europe,Switzerland,2017,60
+Africa,Eswatini,2017,599.8
+Europe,Austria,2017,60.52
+Americas,Colombia,2017,61.49
+Eastern Mediterranean,Tunisia,2017,61
+Europe,Denmark,2017,61.75
+Europe,Luxembourg,2017,62.04
+Europe,Norway,2017,61.55
+Western Pacific,Singapore,2017,62.5
+Europe,Bosnia and Herzegovina,2017,63.34
+Europe,Poland,2017,62.81
+South-East Asia,Sri Lanka,2017,63.01
+Europe,North Macedonia,2017,64.46
+Europe,Slovakia,2017,64.27
+Europe,Sweden,2017,63.76
+Europe,Malta,2017,65.15
+Europe,Netherlands (Kingdom of the),2017,64.73
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2017,64.81
+Africa,Lesotho,2017,651.9
+Europe,Belgium,2017,66.41
+Europe,Italy,2017,65.72
+Western Pacific,Japan,2017,66.15
+Eastern Mediterranean,Jordan,2017,66.37
+Europe,Albania,2017,66.99
+Americas,Canada,2017,67.79
+Europe,Finland,2017,68
+Europe,Germany,2017,67.58
+Europe,Iceland,2017,68.32
+South-East Asia,Maldives,2017,67.62
+Europe,Montenegro,2017,67.65
+Western Pacific,New Zealand,2017,67.81
+Eastern Mediterranean,Oman,2017,68.43
+Americas,Panama,2017,67.59
+Europe,United Kingdom of Great Britain and Northern Ireland,2017,68.29
+Europe,Azerbaijan,2017,69.31
+Europe,Greece,2017,68.98
+Europe,Slovenia,2017,68.93
+Europe,France,2017,70.41
+Europe,Israel,2017,70.1
+Eastern Mediterranean,Kuwait,2017,70.04
+Eastern Mediterranean,Bahrain,2017,70.62
+Americas,Cuba,2017,71.44
+Europe,Cyprus,2017,70.53
+Americas,Peru,2017,71.47
+Eastern Mediterranean,Qatar,2017,71.43
+Europe,Ireland,2017,72.35
+Eastern Mediterranean,Lebanon,2017,73.49
+Americas,Puerto Rico,2017,73.43
+Africa,Algeria,2017,74.31
+Europe,Georgia,2017,73.91
+Europe,Portugal,2017,73.86
+Eastern Mediterranean,Saudi Arabia,2017,74.05
+Western Pacific,Australia,2017,74.91
+Europe,Spain,2017,74.51
+Western Pacific,Viet Nam,2017,74.81
+Europe,Denmark,2017,76.06
+Americas,Ecuador,2017,76.11
+Eastern Mediterranean,Bahrain,2017,78.23
+Eastern Mediterranean,Jordan,2017,78.46
+Eastern Mediterranean,Qatar,2017,78.18
+Europe,Serbia,2017,78.4
+Europe,Austria,2017,78.83
+Americas,Chile,2017,78.56
+Europe,Lithuania,2017,79.02
+Western Pacific,Republic of Korea,2017,79.47
+Africa,Cabo Verde,2017,80.3
+Americas,Nicaragua,2017,79.65
+Europe,Romania,2017,80.45
+Americas,Argentina,2017,80.86
+Europe,Belarus,2017,80.74
+Europe,Czechia,2017,81.05
+Europe,Hungary,2017,80.61
+Americas,United States of America,2017,80.83
+Americas,Uruguay,2017,80.75
+Eastern Mediterranean,Bahrain,2017,82.22
+Western Pacific,Brunei Darussalam,2017,82.18
+South-East Asia,Thailand,2017,82.35
+Africa,Algeria,2017,82.78
+Europe,Belgium,2017,82.96
+Europe,Latvia,2017,83.49
+Western Pacific,New Zealand,2017,82.85
+Americas,Canada,2017,84.25
+Americas,Costa Rica,2017,84.26
+South-East Asia,Maldives,2017,84.42
+Europe,Türkiye,2017,83.93
+Europe,United Kingdom of Great Britain and Northern Ireland,2017,84.13
+Americas,Brazil,2017,84.65
+Europe,Germany,2017,86.43
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2017,86.06
+Europe,Bulgaria,2017,86.64
+Europe,Croatia,2017,87.31
+Europe,Republic of Moldova,2017,86.86
+Eastern Mediterranean,Tunisia,2017,86.52
+Americas,Colombia,2017,88.44
+Eastern Mediterranean,Iran (Islamic Republic of),2017,88.49
+Americas,Paraguay,2017,88
+Americas,Peru,2017,87.57
+Eastern Mediterranean,Saudi Arabia,2017,88.3
+Western Pacific,China,2017,90.02
+Europe,Finland,2017,90.06
+Europe,North Macedonia,2017,89.76
+Americas,Venezuela (Bolivarian Republic of),2017,89.9
+Africa,Algeria,2017,90.71
+Americas,Antigua and Barbuda,2017,91.27
+Americas,Mexico,2017,90.71
+Europe,Slovenia,2017,90.92
+Europe,Bosnia and Herzegovina,2017,91.6
+Europe,Kyrgyzstan,2017,91.73
+Americas,Saint Lucia,2017,92.25
+Americas,Panama,2017,92.79
+Europe,Tajikistan,2017,93.19
+Americas,Barbados,2017,93.74
+Europe,France,2017,93.59
+Europe,Ukraine,2017,94.18
+Europe,Albania,2017,95.32
+Europe,Greece,2017,96.05
+Eastern Mediterranean,Lebanon,2017,95.97
+Eastern Mediterranean,Saudi Arabia,2017,96.44
+Europe,Kazakhstan,2017,97.5
+Americas,Cuba,2017,99.05
+Europe,Montenegro,2017,99.07
+Europe,Kazakhstan,2016,100.2
+Africa,Seychelles,2016,101.1
+Americas,El Salvador,2016,102.4
+Americas,Puerto Rico,2016,101.5
+South-East Asia,Bhutan,2016,102.7
+South-East Asia,Sri Lanka,2016,103.2
+Americas,Ecuador,2016,104.1
+Europe,Portugal,2016,104.2
+Europe,Slovakia,2016,104.3
+South-East Asia,Bangladesh,2016,104.8
+Americas,Chile,2016,105
+Europe,Azerbaijan,2016,106.8
+Europe,Czechia,2016,109
+Eastern Mediterranean,Oman,2016,108.9
+Americas,United States of America,2016,109.4
+Americas,Dominican Republic,2016,109.6
+Americas,Antigua and Barbuda,2016,111.4
+Americas,Jamaica,2016,111.5
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2016,110.9
+Europe,Serbia,2016,112.2
+Eastern Mediterranean,Tunisia,2016,112
+Americas,Uruguay,2016,112
+Americas,Barbados,2016,113.9
+Western Pacific,Brunei Darussalam,2016,113.7
+Eastern Mediterranean,Egypt,2016,113.6
+Europe,Poland,2016,114
+Americas,Argentina,2016,115.1
+Americas,Costa Rica,2016,115
+Europe,Russian Federation,2016,115
+Eastern Mediterranean,Iran (Islamic Republic of),2016,116.1
+Americas,Nicaragua,2016,116.3
+Europe,Estonia,2016,117.4
+Eastern Mediterranean,Morocco,2016,116.8
+Americas,Grenada,2016,117.7
+Europe,Türkiye,2016,117.5
+South-East Asia,Bhutan,2016,118.6
+Americas,Colombia,2016,119.2
+Europe,Tajikistan,2016,118.9
+Europe,Armenia,2016,120.4
+Americas,Belize,2016,119.6
+South-East Asia,Democratic People's Republic of Korea,2016,120.2
+Americas,Panama,2016,119.5
+Americas,Trinidad and Tobago,2016,119.8
+Europe,Croatia,2016,122
+Eastern Mediterranean,Iraq,2016,121.9
+Eastern Mediterranean,Morocco,2016,122
+South-East Asia,Bangladesh,2016,123.3
+Western Pacific,China,2016,123.2
+Eastern Mediterranean,Libya,2016,123.2
+Americas,Cuba,2016,124.9
+Europe,North Macedonia,2016,125.3
+Americas,Bolivia (Plurinational State of),2016,126.5
+Europe,Bosnia and Herzegovina,2016,125.9
+Europe,Hungary,2016,125.8
+Eastern Mediterranean,Oman,2016,126.4
+Western Pacific,Mongolia,2016,126.6
+Eastern Mediterranean,Morocco,2016,126.9
+Americas,Paraguay,2016,127.7
+Americas,Saint Lucia,2016,128.5
+Americas,Suriname,2016,128.8
+Americas,Ecuador,2016,129.6
+Americas,Guatemala,2016,129.8
+Europe,Montenegro,2016,130.5
+South-East Asia,Nepal,2016,129.8
+Americas,Bahamas,2016,132
+South-East Asia,Bhutan,2016,131.8
+Western Pacific,Philippines,2016,132.3
+Western Pacific,Tonga,2016,132
+Europe,Uzbekistan,2016,131.9
+Americas,Antigua and Barbuda,2016,134.2
+Americas,Mexico,2016,133.6
+Western Pacific,Viet Nam,2016,134
+Americas,Barbados,2016,135.2
+Western Pacific,Indonesia,2016,135.2
+Americas,United States of America,2016,136
+Americas,Bolivia (Plurinational State of),2016,137.4
+Americas,Brazil,2016,137.4
+Europe,Bulgaria,2016,138.1
+Europe,Romania,2016,137.5
+Europe,Turkmenistan,2016,138.2
+Western Pacific,Malaysia,2016,140.8
+South-East Asia,Myanmar,2016,140.8
+Americas,Saint Vincent and the Grenadines,2016,140.8
+South-East Asia,Thailand,2016,142.4
+Europe,Azerbaijan,2016,143.4
+South-East Asia,Bangladesh,2016,142.6
+South-East Asia,India,2016,142.8
+Americas,Jamaica,2016,143.4
+Americas,Puerto Rico,2016,143.3
+Europe,Tajikistan,2016,143.4
+South-East Asia,Timor-Leste,2016,142.6
+Africa,Cabo Verde,2016,144.2
+Africa,Sao Tome and Principe,2016,144.1
+Europe,Slovakia,2016,144.4
+South-East Asia,Sri Lanka,2016,144.4
+Eastern Mediterranean,Syrian Arab Republic,2016,144.5
+Americas,Argentina,2016,144.9
+Americas,Uruguay,2016,145.5
+Eastern Mediterranean,Sudan,2016,145.5
+Europe,Serbia,2016,147.4
+Americas,Bolivia (Plurinational State of),2016,148.1
+Western Pacific,Cambodia,2016,148.3
+Americas,Grenada,2016,148.4
+Africa,Mauritius,2016,148.2
+Europe,Kyrgyzstan,2016,148.6
+Eastern Mediterranean,Yemen,2016,149.1
+Americas,Honduras,2016,150.1
+Europe,Latvia,2016,151.9
+Western Pacific,Lao People's Democratic Republic,2016,153.5
+Africa,Mauritania,2016,153.1
+Americas,Nicaragua,2016,153.4
+Eastern Mediterranean,Egypt,2016,153.7
+Africa,Mauritania,2016,155.4
+South-East Asia,Nepal,2016,156
+Africa,Mauritania,2016,157.5
+Africa,Seychelles,2016,159.2
+Eastern Mediterranean,Sudan,2016,159
+Americas,Dominican Republic,2016,160.2
+Europe,Georgia,2016,160.3
+Western Pacific,Indonesia,2016,159.6
+Americas,Venezuela (Bolivarian Republic of),2016,161.1
+Europe,Belarus,2016,161.6
+Africa,Comoros,2016,162
+Europe,Lithuania,2016,161.6
+Africa,Sao Tome and Principe,2016,161.8
+Americas,Trinidad and Tobago,2016,161.7
+Africa,Ethiopia,2016,162.6
+Eastern Mediterranean,Libya,2016,163.1
+Americas,Paraguay,2016,162.7
+Europe,Poland,2016,163
+Americas,Saint Lucia,2016,162.8
+South-East Asia,Timor-Leste,2016,163
+South-East Asia,Democratic People's Republic of Korea,2016,165.1
+Americas,Honduras,2016,165
+Americas,Belize,2016,165.7
+Europe,Estonia,2016,167.9
+Western Pacific,Tonga,2016,167.6
+Europe,Kazakhstan,2016,169.3
+Europe,Republic of Moldova,2016,171.2
+Europe,Hungary,2016,172.1
+Africa,Nigeria,2016,171.8
+Africa,Senegal,2016,171.6
+Africa,Benin,2016,172.6
+South-East Asia,India,2016,173
+Eastern Mediterranean,Sudan,2016,173.3
+Americas,Suriname,2016,173.1
+Europe,Uzbekistan,2016,172.6
+Eastern Mediterranean,Iraq,2016,173.6
+Americas,Guatemala,2016,174.7
+Eastern Mediterranean,Pakistan,2016,174.9
+Americas,Grenada,2016,176.5
+Americas,Jamaica,2016,176
+Western Pacific,Samoa,2016,176.4
+Western Pacific,Malaysia,2016,178.1
+Americas,Mexico,2016,178
+Africa,Comoros,2016,178.8
+Americas,El Salvador,2016,178.6
+Africa,Rwanda,2016,179.2
+Africa,Sao Tome and Principe,2016,179.2
+Americas,Bahamas,2016,180.2
+Americas,Honduras,2016,180.1
+Europe,Ukraine,2016,179.7
+Americas,Saint Vincent and the Grenadines,2016,181
+Americas,Guyana,2016,181.7
+South-East Asia,Timor-Leste,2016,181.6
+Western Pacific,Vanuatu,2016,181.7
+Africa,Ethiopia,2016,183
+Western Pacific,Indonesia,2016,183.3
+South-East Asia,Nepal,2016,184.3
+Americas,Brazil,2016,184.9
+Europe,Armenia,2016,186.1
+Europe,Bulgaria,2016,186.8
+Eastern Mediterranean,Pakistan,2016,188
+Western Pacific,Fiji,2016,188.8
+Western Pacific,Lao People's Democratic Republic,2016,189.3
+Western Pacific,Cambodia,2016,190.3
+Eastern Mediterranean,Yemen,2016,190.2
+South-East Asia,Myanmar,2016,191.4
+Eastern Mediterranean,Egypt,2016,192.1
+Europe,Turkmenistan,2016,192.2
+Europe,Romania,2016,193
+Africa,Senegal,2016,193.2
+Africa,Mauritius,2016,194.2
+Africa,Nigeria,2016,194.1
+Western Pacific,Viet Nam,2016,193.8
+Africa,Comoros,2016,195.1
+Western Pacific,Papua New Guinea,2016,194.7
+Western Pacific,Philippines,2016,195.1
+Africa,Uganda,2016,197.8
+Africa,Burkina Faso,2016,199.5
+South-East Asia,Thailand,2016,199
+Eastern Mediterranean,Libya,2016,199.6
+Western Pacific,Samoa,2016,200.4
+South-East Asia,India,2016,200.7
+Africa,Niger,2016,201.1
+Eastern Mediterranean,Pakistan,2016,200.6
+Africa,Cabo Verde,2016,201.7
+Europe,Kyrgyzstan,2016,202.4
+Western Pacific,Tonga,2016,203.5
+Americas,Trinidad and Tobago,2016,202.5
+Africa,Ethiopia,2016,204.3
+Africa,Ghana,2016,206.5
+Africa,Seychelles,2016,206
+Africa,Rwanda,2016,206.9
+South-East Asia,Democratic People's Republic of Korea,2016,208.2
+Europe,Russian Federation,2016,207.5
+Americas,Belize,2016,209.4
+Americas,Dominican Republic,2016,209.2
+Africa,United Republic of Tanzania,2016,210.2
+Africa,Benin,2016,211.4
+Europe,Uzbekistan,2016,212.2
+Western Pacific,Micronesia (Federated States of),2016,213.5
+Western Pacific,Papua New Guinea,2016,213.4
+Americas,Suriname,2016,214.4
+Africa,Gabon,2016,214.7
+Western Pacific,Mongolia,2016,214.8
+Africa,Senegal,2016,215.4
+Africa,Angola,2016,216.2
+Africa,Nigeria,2016,216.1
+Americas,Saint Vincent and the Grenadines,2016,216.2
+Africa,Burundi,2016,216.7
+Europe,Latvia,2016,220.1
+Africa,Gambia,2016,220.7
+Americas,Guatemala,2016,221
+Africa,Niger,2016,220.7
+Western Pacific,Samoa,2016,222.5
+Americas,Venezuela (Bolivarian Republic of),2016,222.6
+Western Pacific,Lao People's Democratic Republic,2016,224.1
+Eastern Mediterranean,Djibouti,2016,225.5
+Western Pacific,Fiji,2016,224.6
+Eastern Mediterranean,Iraq,2016,224.7
+Africa,Madagascar,2016,225.8
+Africa,Cote d'Ivoire,2016,226.7
+Africa,Kenya,2016,227.9
+Africa,Togo,2016,229.3
+Eastern Mediterranean,Yemen,2016,229.1
+Americas,Bahamas,2016,229.7
+Western Pacific,Papua New Guinea,2016,230.1
+Western Pacific,Kiribati,2016,231.2
+Western Pacific,Solomon Islands,2016,231.4
+Africa,Mali,2016,231.6
+Africa,Democratic Republic of the Congo,2016,233.2
+Western Pacific,Cambodia,2016,236.2
+Africa,United Republic of Tanzania,2016,236.3
+Africa,Mali,2016,236.7
+Africa,Chad,2016,238.7
+Africa,Niger,2016,239.2
+Africa,Rwanda,2016,238.9
+Americas,Guyana,2016,240.3
+Africa,Eritrea,2016,241.5
+Africa,Guinea,2016,240.5
+South-East Asia,Myanmar,2016,240.8
+Africa,Sierra Leone,2016,240.5
+Europe,Belarus,2016,241.6
+Europe,Kazakhstan,2016,241.7
+Africa,Liberia,2016,241.9
+Europe,Lithuania,2016,242.3
+Africa,Madagascar,2016,241.8
+Africa,Mali,2016,241.9
+Europe,Georgia,2016,243.5
+Africa,Burkina Faso,2016,244.5
+Eastern Mediterranean,Djibouti,2016,246.6
+Africa,Liberia,2016,247.5
+Europe,Republic of Moldova,2016,248.8
+Eastern Mediterranean,United Arab Emirates,2016,25.45
+Africa,Burundi,2016,249.5
+Africa,Ghana,2016,250.5
+Africa,Malawi,2016,250
+Africa,South Sudan,2016,250.3
+Europe,Turkmenistan,2016,250.1
+Africa,Benin,2016,250.5
+Africa,Gambia,2016,254.1
+Africa,Liberia,2016,253.7
+Africa,Angola,2016,255.3
+Africa,Sierra Leone,2016,254.6
+Western Pacific,Philippines,2016,255.7
+Western Pacific,Vanuatu,2016,256
+Africa,Madagascar,2016,257.8
+Africa,Uganda,2016,257.8
+Western Pacific,Fiji,2016,259
+Africa,Guinea,2016,258.9
+Europe,Ukraine,2016,260.9
+Africa,Gabon,2016,261.5
+Africa,Chad,2016,263.1
+Americas,Haiti,2016,263.5
+Americas,El Salvador,2016,264.2
+Americas,Haiti,2016,265.2
+Africa,United Republic of Tanzania,2016,265
+Americas,Haiti,2016,267.2
+Africa,Democratic Republic of the Congo,2016,267.9
+Africa,South Africa,2016,267.6
+Africa,Cote d'Ivoire,2016,269.2
+Eastern Mediterranean,Djibouti,2016,268.6
+Africa,Sierra Leone,2016,269.3
+Africa,Kenya,2016,269.6
+Africa,Equatorial Guinea,2016,270.9
+Western Pacific,Micronesia (Federated States of),2016,271.5
+Africa,Namibia,2016,277.9
+Africa,Togo,2016,277.9
+Africa,Cameroon,2016,280.7
+Africa,Guinea,2016,280.7
+Africa,Burundi,2016,283.1
+Africa,Equatorial Guinea,2016,282.9
+Africa,Zambia,2016,283.8
+Eastern Mediterranean,Afghanistan,2016,286
+Africa,Chad,2016,288.2
+Western Pacific,Solomon Islands,2016,288.9
+Africa,Gambia,2016,289.8
+Africa,South Sudan,2016,290.2
+Africa,Guinea-Bissau,2016,292.2
+Africa,Botswana,2016,292.7
+Africa,Burkina Faso,2016,292.8
+Africa,Equatorial Guinea,2016,294.1
+Africa,Ghana,2016,293.7
+Africa,Angola,2016,295.8
+Africa,Eritrea,2016,297.6
+Americas,Guyana,2016,298.5
+Africa,Congo,2016,300.2
+Europe,Russian Federation,2016,300.4
+Western Pacific,Mongolia,2016,300.8
+Africa,Congo,2016,301.8
+Western Pacific,Kiribati,2016,302.5
+Africa,Congo,2016,303.5
+Africa,Democratic Republic of the Congo,2016,302.9
+Africa,Gabon,2016,303.3
+Africa,Cote d'Ivoire,2016,304.9
+Eastern Mediterranean,Somalia,2016,305.4
+Eastern Mediterranean,Afghanistan,2016,307
+Africa,Malawi,2016,306.6
+Africa,Cameroon,2016,308.8
+Africa,Kenya,2016,309.8
+Eastern Mediterranean,Kuwait,2016,32.49
+Africa,Uganda,2016,319.6
+Western Pacific,Vanuatu,2016,321.2
+Eastern Mediterranean,Syrian Arab Republic,2016,324
+Africa,Zambia,2016,323.5
+Africa,South Africa,2016,324.6
+Africa,Togo,2016,324.5
+Africa,Botswana,2016,326.4
+Eastern Mediterranean,Afghanistan,2016,326.8
+Western Pacific,Micronesia (Federated States of),2016,328.4
+Africa,Mozambique,2016,330.4
+Africa,South Sudan,2016,332
+Africa,Namibia,2016,334.5
+Africa,Cameroon,2016,336.8
+Africa,Guinea-Bissau,2016,339.4
+Western Pacific,Solomon Islands,2016,339.2
+Africa,Eritrea,2016,356.8
+Europe,Cyprus,2016,35.94
+Western Pacific,Republic of Korea,2016,35.9
+Europe,Switzerland,2016,35.98
+Africa,Botswana,2016,361.3
+Eastern Mediterranean,Somalia,2016,365.3
+Africa,Zambia,2016,366
+Africa,Malawi,2016,366.8
+Africa,Zimbabwe,2016,368.3
+Europe,Italy,2016,36.85
+Western Pacific,Japan,2016,36.73
+Europe,Luxembourg,2016,36.89
+Western Pacific,Kiribati,2016,376.4
+Western Pacific,Singapore,2016,37.61
+Europe,Spain,2016,38.02
+Africa,South Africa,2016,387.9
+Africa,Guinea-Bissau,2016,393.5
+Africa,Mozambique,2016,395.7
+Africa,Namibia,2016,396.1
+Europe,Iceland,2016,39.81
+Europe,Israel,2016,39.62
+Europe,Sweden,2016,39.84
+Africa,Central African Republic,2016,406.4
+Europe,Malta,2016,40.66
+Africa,Zimbabwe,2016,411.3
+Europe,Norway,2016,41.52
+Eastern Mediterranean,Somalia,2016,423.6
+Europe,Finland,2016,43.1
+Europe,Slovenia,2016,43.46
+Africa,Eswatini,2016,438.1
+Europe,Albania,2016,43.57
+Europe,Austria,2016,43.75
+Eastern Mediterranean,United Arab Emirates,2016,43.94
+Western Pacific,Australia,2016,44.68
+Europe,Portugal,2016,44.53
+Europe,Greece,2016,45.63
+Europe,Ireland,2016,46.33
+South-East Asia,Maldives,2016,46.07
+Eastern Mediterranean,Syrian Arab Republic,2016,460.8
+Africa,Zimbabwe,2016,462.7
+Africa,Central African Republic,2016,469.5
+Europe,Switzerland,2016,47.26
+Africa,Mozambique,2016,478.4
+Europe,France,2016,47.79
+Eastern Mediterranean,Qatar,2016,48.96
+Europe,Germany,2016,49.53
+Europe,Italy,2016,50.11
+Europe,Belgium,2016,51.26
+Europe,Croatia,2016,50.7
+Europe,Denmark,2016,50.86
+Europe,Luxembourg,2016,50.99
+Europe,Netherlands (Kingdom of the),2016,50.99
+Western Pacific,Singapore,2016,51.3
+Americas,Canada,2016,51.61
+Europe,Sweden,2016,52.3
+Africa,Eswatini,2016,528.1
+Europe,Czechia,2016,53.36
+Western Pacific,Japan,2016,52.8
+Eastern Mediterranean,Lebanon,2016,53.33
+Western Pacific,New Zealand,2016,52.65
+Eastern Mediterranean,United Arab Emirates,2016,53.03
+Africa,Lesotho,2016,531.8
+Africa,Central African Republic,2016,537.7
+Europe,Cyprus,2016,53.89
+Europe,Malta,2016,54.26
+Europe,Norway,2016,53.63
+Europe,Iceland,2016,54.61
+Europe,Israel,2016,55.08
+Eastern Mediterranean,Jordan,2016,54.54
+Europe,United Kingdom of Great Britain and Northern Ireland,2016,55
+Americas,Chile,2016,56.07
+Americas,Costa Rica,2016,56.31
+Eastern Mediterranean,Kuwait,2016,55.64
+Europe,Türkiye,2016,55.86
+Europe,Spain,2016,57
+Western Pacific,China,2016,57.9
+Europe,Netherlands (Kingdom of the),2016,58.28
+Europe,Switzerland,2016,58.16
+Western Pacific,Australia,2016,60.37
+Europe,Ireland,2016,60.31
+Western Pacific,Republic of Korea,2016,59.65
+Africa,Lesotho,2016,606.2
+Eastern Mediterranean,Iran (Islamic Republic of),2016,60.52
+Eastern Mediterranean,Tunisia,2016,61.43
+Africa,Eswatini,2016,618.3
+Europe,Austria,2016,62.11
+Americas,Puerto Rico,2016,62.01
+Americas,Colombia,2016,63.2
+Europe,Italy,2016,63.49
+Europe,Poland,2016,62.92
+Europe,Slovakia,2016,62.91
+South-East Asia,Sri Lanka,2016,63.4
+Europe,Bosnia and Herzegovina,2016,63.69
+Europe,Luxembourg,2016,64.07
+Western Pacific,Singapore,2016,63.8
+Europe,Sweden,2016,64.19
+Europe,Netherlands (Kingdom of the),2016,65.49
+Europe,Norway,2016,64.99
+Europe,Armenia,2016,65.9
+Europe,Denmark,2016,65.87
+Europe,North Macedonia,2016,65.71
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2016,66.25
+Americas,Panama,2016,65.88
+Americas,Peru,2016,66.28
+Americas,Canada,2016,67.38
+Europe,Estonia,2016,67.16
+Europe,Malta,2016,67.14
+Western Pacific,New Zealand,2016,66.69
+Western Pacific,Japan,2016,68.15
+Europe,Montenegro,2016,68.2
+Africa,Lesotho,2016,679.9
+Europe,Belgium,2016,69.03
+Europe,Iceland,2016,68.78
+Eastern Mediterranean,Jordan,2016,69.22
+Eastern Mediterranean,Kuwait,2016,68.84
+Europe,Albania,2016,69.67
+Europe,Finland,2016,69.55
+Europe,Germany,2016,70.12
+Europe,United Kingdom of Great Britain and Northern Ireland,2016,70.1
+Eastern Mediterranean,Bahrain,2016,71
+Europe,Cyprus,2016,71.47
+Europe,Greece,2016,70.77
+Europe,Israel,2016,70.88
+South-East Asia,Maldives,2016,70.81
+Eastern Mediterranean,Oman,2016,70.7
+Americas,Cuba,2016,71.71
+Europe,France,2016,72.13
+Europe,Slovenia,2016,71.67
+Europe,Azerbaijan,2016,74.31
+Europe,Ireland,2016,74.33
+Europe,Portugal,2016,73.54
+Eastern Mediterranean,Qatar,2016,73.91
+Eastern Mediterranean,Saudi Arabia,2016,73.52
+Africa,Algeria,2016,75.02
+Eastern Mediterranean,Lebanon,2016,75
+Western Pacific,Australia,2016,76.13
+Europe,Spain,2016,75.69
+Western Pacific,Viet Nam,2016,75.64
+Americas,Ecuador,2016,78.28
+Europe,Serbia,2016,78.27
+Americas,Uruguay,2016,78.24
+Eastern Mediterranean,Bahrain,2016,78.53
+Europe,Austria,2016,80.05
+Europe,Denmark,2016,80.48
+Europe,Hungary,2016,79.82
+Americas,Chile,2016,80.8
+Europe,Lithuania,2016,81.36
+Western Pacific,New Zealand,2016,81.06
+Americas,Nicaragua,2016,80.89
+Eastern Mediterranean,Qatar,2016,80.66
+Europe,Romania,2016,80.7
+Americas,United States of America,2016,81.1
+Western Pacific,Brunei Darussalam,2016,81.86
+Africa,Cabo Verde,2016,82.11
+Europe,Czechia,2016,81.92
+Europe,Georgia,2016,82.46
+Eastern Mediterranean,Jordan,2016,82.08
+Americas,Peru,2016,81.62
+Western Pacific,Republic of Korea,2016,82.37
+Eastern Mediterranean,Bahrain,2016,82.71
+Americas,Canada,2016,82.82
+Africa,Algeria,2016,83.53
+Europe,Belarus,2016,83.53
+South-East Asia,Thailand,2016,84.39
+Americas,Argentina,2016,84.58
+Europe,Latvia,2016,84.51
+Europe,Belgium,2016,86.27
+Europe,Bulgaria,2016,86.49
+Americas,Costa Rica,2016,85.61
+Europe,United Kingdom of Great Britain and Northern Ireland,2016,85.51
+Europe,Croatia,2016,86.58
+Europe,Türkiye,2016,87.32
+Eastern Mediterranean,Tunisia,2016,86.84
+Eastern Mediterranean,"occupied Palestinian territory, including east Jerusalem",2016,88.43
+Americas,Brazil,2016,88.57
+Eastern Mediterranean,Iran (Islamic Republic of),2016,89.23
+South-East Asia,Maldives,2016,88.84
+Eastern Mediterranean,Saudi Arabia,2016,89.45
+Europe,Germany,2016,89.92
+Africa,Algeria,2016,91.49
+Americas,Antigua and Barbuda,2016,90.73
+Western Pacific,China,2016,91.49
+Americas,Colombia,2016,91.19
+Americas,Mexico,2016,91.34
+Americas,Paraguay,2016,91.63
+Europe,Kyrgyzstan,2016,92.79
+Americas,Panama,2016,93.03
+Americas,Saint Lucia,2016,92.9
+Americas,Barbados,2016,94.04
+Europe,Bosnia and Herzegovina,2016,94.39
+Europe,Finland,2016,94.84
+Europe,North Macedonia,2016,95.5
+Europe,Tajikistan,2016,96.08
+Americas,Venezuela (Bolivarian Republic of),2016,96
+Europe,Albania,2016,96.9
+Europe,France,2016,96.79
+Europe,Greece,2016,97.01
+Eastern Mediterranean,Lebanon,2016,97.11
+Americas,Peru,2016,96.78
+Europe,Ukraine,2016,97.44
+Americas,Cuba,2016,98.25
+Western Pacific,Malaysia,2016,98.44
+Africa,Mauritius,2016,98.12
+Eastern Mediterranean,Saudi Arabia,2016,98.14
+Europe,Slovenia,2016,97.98
+Western Pacific,Brunei Darussalam,2016,98.83
+Europe,Montenegro,2016,99
+Europe,Republic of Moldova,2016,99.02
